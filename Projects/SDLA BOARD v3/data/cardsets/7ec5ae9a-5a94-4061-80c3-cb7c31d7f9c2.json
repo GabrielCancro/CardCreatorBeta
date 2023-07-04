@@ -6,8 +6,604 @@
   "hint_order_index": 1,
   "cards": [
     {
-      "card_id": "221c2df0-5487-44c0-a42e-6fb14a39c47c",
-      "amount": 1
+      "card_id": "70255c7d-d5f0-4e77-ae4a-7e3267da5cf7",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/orc3.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "- / C"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "2\n8\n2"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Orco Salvaje</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "O"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "800cb6e4-3e53-4835-bac4-02dda5788ccd",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/orcG.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "C / E"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "2\n9\n3"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Orco Guerrero</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "O\t"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d2992693-bdfe-4f20-bb31-db0cb41f8f98",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": "RETAGUARDIA"
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/orcS.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "- / C"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "2\n8\n2"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "Orco Merodeador"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "O"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a67d80f2-de1b-469d-a0ae-6df559b6b7a1",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": "ROTUNDO"
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/uruk.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "CE / U"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "3\n10\n4"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Uruk Hai</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "O"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "debf7e88-a6ea-41ba-bf1c-02dcac6bd48d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": "VELÓZ"
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/wolf2.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "2x Ración"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "2\n8\n3"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Lobo</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "S"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b4da88a6-b41a-4638-9dc1-65f6c3b308eb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": "VELÓZ"
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/wolf.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "- / -"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "1\n8\n2"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Perro De Caza</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "s"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7f48b6d4-f1cb-47ad-84c6-69f690dfb0c6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/err2.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "C / CC"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "2\n10\n3"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Bandido Errante</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "H"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "833699fb-e9ae-414d-be85-70863afff60d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": "RETAGUARDIA"
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/band.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "C / CC"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "2\n9\n3"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Asaltante</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "H"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5522b71c-2d20-4de8-b9f1-9c109fbb9dd3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/hmn1.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "CE / CU"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "3\n11\n5"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Mercenario</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "H"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "65713fe7-ccfe-4e17-996f-f46f59ef6acb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c8743530-3563-4bcb-a825-137e11d1182e",
+          "panels": [
+            {
+              "blueprint_panel_id": "460ebb31-363f-434d-a44b-971007087d5e",
+              "type": "text",
+              "data": {
+                "text": "DESGARRAR"
+              }
+            },
+            {
+              "blueprint_panel_id": "535cfd2c-701a-4a75-b142-b119f53b9328",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Retraits/huarg.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "3380ad15-bc54-4747-9b54-43258ee94c75",
+              "type": "text",
+              "data": {
+                "text": "CE / U"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e8af499-4946-45a5-93a4-aa45dab78ec9",
+              "type": "text",
+              "data": {
+                "text": "3\n9\n5"
+              }
+            },
+            {
+              "blueprint_panel_id": "053f2455-1354-47fd-9b03-7d90913dc3ff",
+              "type": "text",
+              "data": {
+                "text": "<b>Huargo </b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3c09f4a-852a-4282-a5cc-57ddaf9d5e7c",
+              "type": "text",
+              "data": {
+                "text": "O"
+              }
+            },
+            {
+              "blueprint_panel_id": "28a68882-d669-42e2-a73f-2be48ddd6109",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }

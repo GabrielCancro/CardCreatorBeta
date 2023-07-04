@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<panelMaterial>
+	<name>Raised</name>
+	<order>back</order>
+	<tint editable="true">#ffffffff</tint>
+	<selector>Height</selector>
+	<images>
+		<image id="1">
+			<name>raised_1.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(27, 27, -27, -27)</padding>
+		</image>
+		<image id="2">
+			<name>raised_2.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(27, 27, -27, -27)</padding>
+		</image>
+		<image id="3">
+			<name>raised_3.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(27, 27, -27, -27)</padding>
+		</image>
+		<image id="4">
+			<name>raised_4.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(27, 27, -27, -27)</padding>
+		</image>
+	</images>
+</panelMaterial>

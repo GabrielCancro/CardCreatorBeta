@@ -1,0 +1,1601 @@
+{
+  "version": 2.12,
+  "cardset_id": "351e5d70-5858-4cd7-a62a-b028e727d7f0",
+  "name": "Numbers",
+  "blueprint_id": "90636fee-e900-4f8c-a2b6-e1bde730a3ba",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "4cb215aa-aed4-42b7-99a1-08428b8fc459",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "color": "#FF2D00FF",
+                "outline_length": 5.0,
+                "outline_color": "#000000FF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "6a10af4d-1da4-4ecf-ac03-693c8a75d954",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "2",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d9dde646-b78a-484f-8acb-d09f66a47ea0",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "3",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "37af1896-3165-460e-881f-d9d93018b813",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "4",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "bf51e1d6-ac54-489a-bb94-a4159a2336b0",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "5",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "6413bdfc-212e-4c9e-b6c7-7cafdf4b73c8",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "6",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8ba6b06a-9f89-4838-ac97-4e2e22cba266",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "7",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b7a92f33-c359-42f6-93b6-63447c123b7c",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "8",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c82c9a00-1660-4c7b-9a3b-91d7fb2ee79e",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#FF2D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "9",
+                "color": "#FF2D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "585f022e-199b-45fc-aaae-d446d11e544a",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "1",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "00842ced-af2d-44ed-ad76-62c32b13d152",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "2",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a5d3be75-7501-44b7-aea6-c6c03e24e322",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "3",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e308dc70-36bf-454c-b1c8-f55abe0a7f5e",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "4",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f05a4ea2-e385-4af7-8d23-ea68908ca777",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "5",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b8b0a181-413e-4c9e-ad3a-bbe8aac94f4b",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "6",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9173ec17-a67b-45ec-84dd-be28aae2a4d5",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "7",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ab41db19-4a04-4f20-b120-868ec7a8622c",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "8",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1e4f09a9-6ce5-4aa3-af04-97f5d3f06a9d",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#2BB225FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "9",
+                "color": "#2BB225FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b7f10a57-5f04-4eeb-9a1e-f4e53941c193",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "1",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d6e82316-efc1-499f-ba8d-9b51b0015b36",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "2",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e95346df-47c0-40cc-aefc-a38c434262f8",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "3",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "194de89f-87d8-4105-b447-fe76efcea6e9",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "4",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "17f0c262-7b53-44ca-b274-5b341ca7cf08",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "5",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e699b2d2-7747-40be-895e-6adccf8b571f",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "6",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3fec583e-f804-45ed-afae-0d9e79af7a5a",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "7",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "01f9a217-b9d4-4fc3-82d7-2349c192b4fc",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "8",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0910f308-7ab4-4fc0-b1ae-b3628c78f4b5",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#4963D6FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "9",
+                "color": "#4963D6FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7d1c8097-9b4d-4903-91c8-849faa93cb08",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "color": "#F2FF00FF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4c43be11-b519-4e1c-b6d7-203b43ba8c7b",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "2",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0db4c030-37f1-4a3f-8aaa-806447b19d4b",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "3",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "6547b2cd-f9fe-48fa-b0ae-4b5db715e119",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "4",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "430648bc-6da8-4d51-a5f0-d48bd64aa738",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "5",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7568acaf-1072-430f-854b-bab31d0dab66",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "6",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1f449be1-a0ed-4f60-9581-0a5caca8e0c8",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "7",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "53e48535-2dc5-4e49-9aba-7d6656ec95f4",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "8",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "24e446b0-b572-47f7-b3a0-d72adfd94c4f",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "0575971f-ad56-4e62-a3df-0c6d7af8a93e",
+          "panels": [
+            {
+              "blueprint_panel_id": "7e8e4d04-78ba-468b-8513-2f78cc6b7e37",
+              "type": "image",
+              "data": {
+                "tint": "#F2FF00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5173647f-753a-4dc1-8443-6e4b273789fc",
+          "panels": [
+            {
+              "blueprint_panel_id": "61f103d5-ecc8-4fee-a6af-1127264a50f6",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            },
+            {
+              "blueprint_panel_id": "f19e76b8-5be4-43c6-bc42-da53fceced14",
+              "type": "text",
+              "data": {
+                "text": "9",
+                "color": "#F2FF00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "a672ba15-1f3b-427e-980d-3ad85afe31cb",
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

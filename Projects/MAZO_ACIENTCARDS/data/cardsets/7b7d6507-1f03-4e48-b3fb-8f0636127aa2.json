@@ -1,0 +1,432 @@
+{
+  "version": 2.12,
+  "cardset_id": "7b7d6507-1f03-4e48-b3fb-8f0636127aa2",
+  "name": "ALIADOS",
+  "blueprint_id": "1c095f29-1fb8-4585-81e4-79cbfd7767bc",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "7346f21e-a0ec-453a-af9d-6692afec7c32",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Golpe de escudo</b>\nUn feroz choque que daña 1pv, si el objetivo es un esbirro lo dejará aturdido (una criatura aturdida no podra realizar acciones en su proimo turno) <b>[ G ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "SOLDADO"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/r1xx.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "O G"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2ea6de0a-8de6-4f1b-8ff1-3ae3b96820f2",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Arco y flecha</b>\nUn disparo que inflige -1pv (versátil, este ataque puede dirigirse a cualquier criatura o esbirro que este en juego) <b>[ O ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "CAZADOR"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/r4.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "O O"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1a66c57d-c1c4-467c-b3cf-a0701ab4e456",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Golpe aplastador</b>\nUn feroz ataque que inflige -3PV <b>[ G ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "\nGUERRERO"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/r2x.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "O G"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "34b06e15-270c-4343-b575-03104b05a0ff",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Minería</b>\nRecoge una carta del mazo de recursos, esta habilidad no tiene coste, pero la criatura perderá su acción y no podrá atacar en este turno."
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "MINERO"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/r3.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "O O"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2df726e5-1816-4490-9585-df8a621e31f3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Iniciativa</b>\nSi esta criatura elimina a un oponente con su golpe, podrá volver a atacar o realizar alguna acción extra."
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "ESPADACHÍN"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/r8.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "O O"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5bebd4ac-b3d4-4869-815a-7196d08f3ad6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Sanar</b>\nEsta habilidad permite recuper +1pv a cualquier criatura <b>[ E ]</b>\n\n<b>Atormentar</b>\nEsta habilidad daña -1pv y aturde a un esbirro a elección (una criatura aturdida no podra realizar acciones en su proimo turno) <b>[ E ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "DRUIDA"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/r11.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "O E"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c1548e4a-e84d-4d95-9589-78f0bc909196",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1b980c62-89e0-459e-bf7a-5595a22293bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "4ee29058-f38e-44e9-ab2c-6a725bf85007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Habilidad especial</b>\nAl ejecutar su habilidad especial, esta criatura inflige -1pv de daño al grupo del jugador que corresponda, luego de eso la criatura se cura +1pv"
+              }
+            },
+            {
+              "blueprint_panel_id": "50082a86-4c8e-4356-8e5b-44300d93920c",
+              "rotation": 90,
+              "type": "text",
+              "data": {
+                "text": "HURUK HAI"
+              }
+            },
+            {
+              "blueprint_panel_id": "5470bb4b-9335-4e6c-af8c-1965b64fa869",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/enem1.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "62e7d3eb-3358-444a-9015-a127d83c4a10",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "15"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ffb6e37-21fd-45eb-91d5-9618cd0a7583",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "46edc261-4ccc-48c2-a812-18eca805cce2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "AMENAZA(2)   "
+              }
+            },
+            {
+              "blueprint_panel_id": "dbd7b88a-97d3-4e4c-b94a-aa7b17059874",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/warlock-eye",
+                "color_tint": "#424242FF",
+                "color_background": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

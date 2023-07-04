@@ -1,0 +1,44 @@
+Mono path[0] = 'E:/Steam/steamapps/common/Card Creator/CardCreator_x64/CardCreator_Data/Managed'
+Mono config path = 'E:/Steam/steamapps/common/Card Creator/CardCreator_x64/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.3f1 (f880dceab6fe)
+[Subsystems] Discovering subsystems at path E:/Steam/steamapps/common/Card Creator/CardCreator_x64/CardCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8152 MB
+    Driver:   27.20.14501.18003
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.076 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.538100 ms
+OS: x64, App: x64 2.14.14, CPU Logical Cores: 12, RAM: 31.95 GB
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11254.
+Total: 5.014200 ms (FindLiveObjects: 0.596600 ms CreateObjectMapping: 0.117700 ms MarkObjects: 4.277500 ms  DeleteObjects: 0.021700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11254.
+Total: 5.083900 ms (FindLiveObjects: 0.607300 ms CreateObjectMapping: 0.123700 ms MarkObjects: 4.342900 ms  DeleteObjects: 0.009600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 21895.
+Total: 14.473700 ms (FindLiveObjects: 1.077000 ms CreateObjectMapping: 0.198400 ms MarkObjects: 13.107100 ms  DeleteObjects: 0.091000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 22946.
+Total: 16.800200 ms (FindLiveObjects: 1.059300 ms CreateObjectMapping: 0.193200 ms MarkObjects: 15.499600 ms  DeleteObjects: 0.047900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1032 unused Assets to reduce memory usage. Loaded Objects now: 22713.
+Total: 18.274900 ms (FindLiveObjects: 1.118200 ms CreateObjectMapping: 0.208100 ms MarkObjects: 16.112400 ms  DeleteObjects: 0.835700 ms)
+

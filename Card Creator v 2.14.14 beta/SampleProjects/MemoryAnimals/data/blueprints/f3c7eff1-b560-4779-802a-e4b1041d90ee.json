@@ -1,0 +1,149 @@
+{
+  "version": 2.12,
+  "blueprint_id": "f3c7eff1-b560-4779-802a-e4b1041d90ee",
+  "name": "Animal",
+  "layout_size": "63.5, 63.5",
+  "layout_grid_size": "0.232, 0.1653543",
+  "main_panel_id": "eaa3306d-4e9c-4470-8544-d58e941833f2",
+  "front_layers": [
+    {
+      "layer_id": "5111eb4c-4bb1-407c-8f7d-4c540a6850d3",
+      "name": "Border",
+      "padding": -4.887715E-09,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "b155703a-8a4d-4ee6-b08b-0796511d8a88",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#33333BFF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "164eb629-f1b3-4b57-bcc4-b04a33f2eb7a",
+      "name": "Background",
+      "padding": 0.113491,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "54dd1cd6-6799-462c-bc69-059724ab4657",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Rounded",
+          "material_selection": 32,
+          "material_tint": "#FFFFFFFF",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFF00"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "e38911e8-c3fa-4cf2-80f0-7b2c048e0c1e",
+      "name": "Content",
+      "padding": 0.25,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "f6f20e37-76c8-4c16-a2d1-696f8af34896",
+          "name": "icon",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "icon",
+          "data": {
+            "uri": "Nature/an3_big_egg",
+            "color_tint": "#424242FF",
+            "color_background": "#00000000"
+          },
+          "sort_mode": "2",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "f79120bb-435e-4b12-8ed7-dc076f835a5a",
+      "name": "Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "de0430e8-9666-415b-ba99-76a06aadd0e5",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#33333BFF"
+          },
+          "sort_mode": "3",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

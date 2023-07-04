@@ -1,0 +1,127 @@
+{
+  "version": 2.12,
+  "cardset_id": "c1916452-e48c-4561-bd76-f03fbcaeeac7",
+  "name": "ESBIRROS",
+  "blueprint_id": "57a5d939-000c-4f6b-bfde-f93b50995c8c",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "8a8beeff-a287-494c-99ca-202195bba6e2",
+      "amount": 5,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "490f63c1-08e8-4045-9f08-29ace528f5b2",
+          "panels": [
+            {
+              "blueprint_panel_id": "fd552af6-a1ad-4ff9-b27f-f1189aefdaa0",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/esb1.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3f50a6b-b6d4-4060-af37-5f92e1d969c8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Seres escasamente inteligentes, pero astutos de ser necesario, miserables y deformes. Odian todo lo existente, incluso a ellos mismos y a sus amos, su unico objetivo es la destrucción y matanza."
+              }
+            },
+            {
+              "blueprint_panel_id": "f9aa5b4e-6467-4cc2-9971-2a08e4266ad8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "bcb0593f-50f0-47ac-bb49-185b60935ee3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "08437a52-c807-4e73-b35b-2fdb97a918b2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "TRASGO ERRANTE"
+              }
+            },
+            {
+              "blueprint_panel_id": "c98a331a-d145-4c84-af58-893cfa7d9bfe",
+              "rotation": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "635de02c-c6bb-45e8-b790-207bbcfa165f",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "490f63c1-08e8-4045-9f08-29ace528f5b2",
+          "panels": [
+            {
+              "blueprint_panel_id": "fd552af6-a1ad-4ff9-b27f-f1189aefdaa0",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/esb3.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3f50a6b-b6d4-4060-af37-5f92e1d969c8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Son los llamados hijos del mal, criaturas horrendas y despiadadas, conocidos por sumergir ciudades enteras."
+              }
+            },
+            {
+              "blueprint_panel_id": "f9aa5b4e-6467-4cc2-9971-2a08e4266ad8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "bcb0593f-50f0-47ac-bb49-185b60935ee3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "290cdcfe-e057-4cad-bacf-ab6722a7db64",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "II"
+              }
+            },
+            {
+              "blueprint_panel_id": "08437a52-c807-4e73-b35b-2fdb97a918b2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "ORCO GUERRERO"
+              }
+            },
+            {
+              "blueprint_panel_id": "c98a331a-d145-4c84-af58-893cfa7d9bfe",
+              "rotation": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

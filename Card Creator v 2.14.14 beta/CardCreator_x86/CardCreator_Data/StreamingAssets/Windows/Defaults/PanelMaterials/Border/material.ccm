@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<panelMaterial>
+	<name>Border</name>
+	<order>front</order>
+	<tint editable="true">#ffffffff</tint>
+	<selector>Radius</selector>
+	<images>
+		<image id="3">
+			<name>border_3.png</name>
+			<borders>(4, 4, 4, 4)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="4">
+			<name>border_4.png</name>
+			<borders>(4, 4, 4, 4)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="5">
+			<name>border_5.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="6">
+			<name>border_6.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="7">
+			<name>border_7.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="8">
+			<name>border_8.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="9">
+			<name>border_9.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="10">
+			<name>border_10.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="11">
+			<name>border_11.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="12">
+			<name>border_12.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="13">
+			<name>border_13.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="14">
+			<name>border_14.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="15">
+			<name>border_15.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="16">
+			<name>border_16.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="17">
+			<name>border_17.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="18">
+			<name>border_18.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="19">
+			<name>border_19.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="20">
+			<name>border_20.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="21">
+			<name>border_21.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="22">
+			<name>border_22.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="23">
+			<name>border_23.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="24">
+			<name>border_24.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="25">
+			<name>border_25.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="26">
+			<name>border_26.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="27">
+			<name>border_27.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="28">
+			<name>border_28.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="29">
+			<name>border_29.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="30">
+			<name>border_30.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="31">
+			<name>border_31.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="32">
+			<name>border_32.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+	</images>
+</panelMaterial>

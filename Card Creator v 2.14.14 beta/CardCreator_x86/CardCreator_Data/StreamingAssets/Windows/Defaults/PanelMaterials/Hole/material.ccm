@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<panelMaterial>
+	<name>Hole</name>
+	<order>front</order>
+	<tint editable="false">#ffffffff</tint>
+	<selector>Height</selector>
+	<images>
+		<image id="1">
+			<name>hole_1.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="2">
+			<name>hole_2.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="3">
+			<name>hole_3.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="4">
+			<name>hole_4.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+	</images>
+</panelMaterial>

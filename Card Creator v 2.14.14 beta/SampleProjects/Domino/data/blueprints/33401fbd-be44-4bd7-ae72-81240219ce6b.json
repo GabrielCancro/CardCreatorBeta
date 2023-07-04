@@ -1,0 +1,138 @@
+{
+  "version": 2.12,
+  "blueprint_id": "33401fbd-be44-4bd7-ae72-81240219ce6b",
+  "name": "Domino",
+  "layout_size": "40, 80",
+  "layout_grid_size": "0.232, 0.2625",
+  "main_panel_id": "eaa3306d-4e9c-4470-8544-d58e941833f2",
+  "front_layers": [
+    {
+      "layer_id": "f07493ce-fabd-4137-90c2-6e46ed7fede0",
+      "name": "Background",
+      "padding": 0.0,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "3c959474-c021-4da8-9f9b-dc0feede8f85",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "5111eb4c-4bb1-407c-8f7d-4c540a6850d3",
+      "name": "Base",
+      "padding": 0.002576123,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "b155703a-8a4d-4ee6-b08b-0796511d8a88",
+          "name": "low_icon",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 3.611931E-08",
+          "anchor_max": "1, 0.5",
+          "anchor_max_render": "1, 0.5",
+          "type": "icon",
+          "data": {
+            "uri": "Tabletop/tt1_dice_six_faces_1",
+            "color_tint": "#000000FF",
+            "color_background": "#00000000"
+          },
+          "sort_mode": "1",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "f00f6933-2532-4df2-ad5a-650046b7acd8",
+          "name": "top_icon",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.5",
+          "anchor_min_render": "0, 0.5",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "icon",
+          "data": {
+            "uri": "Tabletop/tt1_dice_six_faces_1",
+            "color_tint": "#000000FF",
+            "color_background": "#00000000"
+          },
+          "sort_mode": "2",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "f79120bb-435e-4b12-8ed7-dc076f835a5a",
+      "name": "Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "de0430e8-9666-415b-ba99-76a06aadd0e5",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "3",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

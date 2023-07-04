@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<panelMaterial>
+	<name>Blank</name>
+	<order>back</order>
+	<tint editable="false">#00000000</tint>
+	<selector></selector>
+	<images>
+	</images>
+</panelMaterial>

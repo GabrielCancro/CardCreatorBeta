@@ -1,0 +1,752 @@
+{
+  "version": 2.12,
+  "cardset_id": "ca9158b3-47e4-4420-b9c4-2faf343a29c9",
+  "name": "Landscapes",
+  "blueprint_id": "de5e71db-bb35-4587-a0db-dc0325dba49f",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "191eb323-1ac1-466a-a871-c0bfb8e0f262",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#D2D833FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "05c691a7-4c68-4763-bc85-365cd85863f0",
+          "panels": [
+            {
+              "blueprint_panel_id": "10724591-d42e-413c-aa32-6c5fa3469329",
+              "type": "image",
+              "data": {
+                "tint": "#D2D3BEFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/05.jpg",
+                "zoom": 1.1,
+                "offset": "-0.0052, 0.5342821"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "31ee3b9a-3e3a-40c6-83a2-816b5d1c8d69",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#D2D833FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "05c691a7-4c68-4763-bc85-365cd85863f0",
+          "panels": [
+            {
+              "blueprint_panel_id": "10724591-d42e-413c-aa32-6c5fa3469329",
+              "type": "image",
+              "data": {
+                "tint": "#D2D3BEFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/07.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "666dfaca-3461-497c-9717-2fff27356979",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#D2D833FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/08.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "43d8ecbf-7883-409e-9b70-564d7cd380c5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#3833D8FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/21.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "471d4cd7-236c-4660-8226-8f5c9a5007eb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#3833D8FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/24.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "075902e9-98ea-4eb9-bb1b-cacd9c073746",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#3833D8FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/25.jpg",
+                "offset": "0, 0.3890404"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f37ae778-2f2e-48c8-b4d8-8dc89dc45227",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#3833D8FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/33.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9186ba16-3d10-4f58-87f9-00a6a1b3e081",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#42D833FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/38.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "93912de0-2364-4c68-b0cc-c7ddfa431025",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#42D833FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/40.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ede2f10a-3218-4edb-b5d6-2e1c345cd0f3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#42D833FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/41.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "071c7fa3-94f2-4edd-a6f7-3ee4cd8c4ea8",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#D83333FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/45.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "19cb470f-fde8-42d1-b12e-88a4e616ee52",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#D83333FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/50.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "cce00190-53e9-41a5-a558-75b035c43bd5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#D83333FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/55.jpg",
+                "offset": "-0.001800009, 0.5057428"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "abf7d9ca-4291-4130-9a1d-81acfccfac76",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "05c691a7-4c68-4763-bc85-365cd85863f0",
+          "panels": [
+            {
+              "blueprint_panel_id": "10724591-d42e-413c-aa32-6c5fa3469329",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/55.jpg",
+                "zoom": 1.1,
+                "offset": "-0.0378, 0.5861542"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "817e451b-0c9d-4d69-a5c0-ac0ccbf0fe54",
+          "panels": [
+            {
+              "blueprint_panel_id": "4dc65143-0fd5-4ef4-8275-1e30d1e29369",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#000000FF",
+                "color_background": "#DDD9B200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f27d93ea-74b4-4525-90d3-cc439fba6b27",
+          "panels": [
+            {
+              "blueprint_panel_id": "d3a9b059-3fd9-4729-bf57-a8abf2c71294",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#FFFFFFF1",
+                "color_background": "#F4FFA48C"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8adadfbf-de71-4026-b4cb-e81f52a6f6d3",
+          "panels": [
+            {
+              "blueprint_panel_id": "3d07920d-6b8e-404b-996a-de4b2f9609c4",
+              "type": "text",
+              "data": {
+                "color": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a36b8bf3-2d6e-4bd3-87df-536d874c5af5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "05c691a7-4c68-4763-bc85-365cd85863f0",
+          "panels": [
+            {
+              "blueprint_panel_id": "10724591-d42e-413c-aa32-6c5fa3469329",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "817e451b-0c9d-4d69-a5c0-ac0ccbf0fe54",
+          "panels": [
+            {
+              "blueprint_panel_id": "4dc65143-0fd5-4ef4-8275-1e30d1e29369",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#000000FF",
+                "color_background": "#DDD9B200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f27d93ea-74b4-4525-90d3-cc439fba6b27",
+          "panels": [
+            {
+              "blueprint_panel_id": "d3a9b059-3fd9-4729-bf57-a8abf2c71294",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#FFFFFFF1",
+                "color_background": "#F4FFA48C"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8adadfbf-de71-4026-b4cb-e81f52a6f6d3",
+          "panels": [
+            {
+              "blueprint_panel_id": "3d07920d-6b8e-404b-996a-de4b2f9609c4",
+              "type": "text",
+              "data": {
+                "color": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "56e16fb0-d032-48b9-83f9-986482d1bd7d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "05c691a7-4c68-4763-bc85-365cd85863f0",
+          "panels": [
+            {
+              "blueprint_panel_id": "10724591-d42e-413c-aa32-6c5fa3469329",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/33.jpg",
+                "offset": "0.02163, -0.4616"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "817e451b-0c9d-4d69-a5c0-ac0ccbf0fe54",
+          "panels": [
+            {
+              "blueprint_panel_id": "4dc65143-0fd5-4ef4-8275-1e30d1e29369",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#000000FF",
+                "color_background": "#DDD9B200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f27d93ea-74b4-4525-90d3-cc439fba6b27",
+          "panels": [
+            {
+              "blueprint_panel_id": "d3a9b059-3fd9-4729-bf57-a8abf2c71294",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#FFFFFFF1",
+                "color_background": "#F4FFA48C"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8adadfbf-de71-4026-b4cb-e81f52a6f6d3",
+          "panels": [
+            {
+              "blueprint_panel_id": "3d07920d-6b8e-404b-996a-de4b2f9609c4",
+              "type": "text",
+              "data": {
+                "color": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0d1a41fa-1a9a-42bd-a9ef-0c7464d0f3ea",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2869a96c-61b6-4bee-b65f-ddebe348ccf0",
+          "panels": [
+            {
+              "blueprint_panel_id": "fc0163ad-a01b-4ecf-877a-81f0544fd995",
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "05c691a7-4c68-4763-bc85-365cd85863f0",
+          "panels": [
+            {
+              "blueprint_panel_id": "10724591-d42e-413c-aa32-6c5fa3469329",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0ecdb81b-f07b-4ff3-9889-d62239ef7ba9",
+          "panels": [
+            {
+              "blueprint_panel_id": "78e8821a-5b8d-4653-937c-95cc9bb3b58a",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/07.jpg",
+                "zoom": 1.1,
+                "offset": "-0.0503, 0.5965807"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "817e451b-0c9d-4d69-a5c0-ac0ccbf0fe54",
+          "panels": [
+            {
+              "blueprint_panel_id": "4dc65143-0fd5-4ef4-8275-1e30d1e29369",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#000000FF",
+                "color_background": "#DDD9B200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f27d93ea-74b4-4525-90d3-cc439fba6b27",
+          "panels": [
+            {
+              "blueprint_panel_id": "d3a9b059-3fd9-4729-bf57-a8abf2c71294",
+              "type": "icon",
+              "data": {
+                "uri": "Other/sun",
+                "color_tint": "#FFFFFFF1",
+                "color_background": "#F4FFA48C"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8adadfbf-de71-4026-b4cb-e81f52a6f6d3",
+          "panels": [
+            {
+              "blueprint_panel_id": "3d07920d-6b8e-404b-996a-de4b2f9609c4",
+              "type": "text",
+              "data": {
+                "color": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

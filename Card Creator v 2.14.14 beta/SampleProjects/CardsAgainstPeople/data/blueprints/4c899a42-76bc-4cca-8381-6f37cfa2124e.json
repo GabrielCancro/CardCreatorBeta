@@ -1,0 +1,230 @@
+{
+  "version": 2.12,
+  "blueprint_id": "4c899a42-76bc-4cca-8381-6f37cfa2124e",
+  "name": "Question",
+  "layout_size": "63.5, 88.9",
+  "layout_grid_size": "0.232, 0.1653543",
+  "main_panel_id": "e14cf13f-fd34-4ed5-bb6d-78021bdd7a2b",
+  "front_layers": [
+    {
+      "layer_id": "2b45b500-35be-46d9-bf86-fdec3bcf534f",
+      "name": "Background",
+      "padding": -0.0005854968,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "7fc58eeb-e6cb-424b-996b-c485fd8dbc3a",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "5111eb4c-4bb1-407c-8f7d-4c540a6850d3",
+      "name": "Base",
+      "padding": 0.1954333,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "b155703a-8a4d-4ee6-b08b-0796511d8a88",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 0.1164987",
+          "anchor_max_render": "1, 0.1164987",
+          "type": "text",
+          "data": {
+            "font_family": "Lato",
+            "font_preferred_size": 26,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "",
+            "color": "#00000080",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00"
+          },
+          "sort_mode": "-1",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "8cf1f6d0-c3cc-4e31-a780-5d460e1ab7dd",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "1.255381E-07, 0",
+          "anchor_max": "0.1696088, 1",
+          "anchor_max_render": "0.1696088, 0.1164987",
+          "type": "icon",
+          "data": {
+            "uri": "Tabletop/tt1_card_poker_hand",
+            "color_tint": "#FFFFFFFF",
+            "color_background": "#00000000"
+          },
+          "sort_mode": "1",
+          "split_mode": "vertical",
+          "parent_panel_id": "b155703a-8a4d-4ee6-b08b-0796511d8a88"
+        },
+        {
+          "panel_id": "8ef0d931-d1f1-43e3-b318-f155c32fad3c",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0.1696088, 0",
+          "anchor_min_render": "0.1696088, 0",
+          "anchor_max": "0.8310186, 1",
+          "anchor_max_render": "0.8310186, 0.1164987",
+          "type": "text",
+          "data": {
+            "font_family": "Ubuntu",
+            "font_preferred_size": 17,
+            "line_spacing": 1.0,
+            "text_anchor": "middleleft",
+            "text": "Cards against people",
+            "color": "#FFFFFFFF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00"
+          },
+          "sort_mode": "2",
+          "split_mode": "vertical",
+          "parent_panel_id": "b155703a-8a4d-4ee6-b08b-0796511d8a88"
+        },
+        {
+          "panel_id": "0319a521-1d1d-44a4-be8c-c22e40757ca5",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0.8310186, 0",
+          "anchor_min_render": "0.8310187, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 0.1164987",
+          "type": "text",
+          "data": {
+            "font_family": "Raleway",
+            "font_preferred_size": 26,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "",
+            "color": "#FFFFFFFF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00"
+          },
+          "sort_mode": "3",
+          "split_mode": "vertical",
+          "parent_panel_id": "b155703a-8a4d-4ee6-b08b-0796511d8a88"
+        },
+        {
+          "panel_id": "e14cf13f-fd34-4ed5-bb6d-78021bdd7a2b",
+          "name": "question",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.1164987",
+          "anchor_min_render": "0, 0.1164987",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "text",
+          "data": {
+            "font_family": "Ubuntu",
+            "font_preferred_size": 28,
+            "line_spacing": 1.0,
+            "text_anchor": "upperleft",
+            "text": "This is an example question card. The answer goes here __________ and also here _________.",
+            "color": "#FFFFFFFF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00"
+          },
+          "sort_mode": "4",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "f79120bb-435e-4b12-8ed7-dc076f835a5a",
+      "name": "Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "de0430e8-9666-415b-ba99-76a06aadd0e5",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "5",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

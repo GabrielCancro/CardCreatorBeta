@@ -1,0 +1,344 @@
+{
+  "version": 2.12,
+  "cardset_id": "6f94291b-f525-428f-9eb2-c59704fa8ca8",
+  "name": "ENERGIA",
+  "blueprint_id": "ddf98497-7bd5-4f84-b376-030f54598adf",
+  "hint_order_index": 3,
+  "cards": [
+    {
+      "card_id": "cf38339a-a581-461b-a351-631985c60525",
+      "amount": 7,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov7.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Al robarse esta carta, el líder que estés enfrentando realizará un ataque directo al grupo del jugador que corresponda."
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "ATAQUE"
+              }
+            },
+            {
+              "blueprint_panel_id": "258bb1a5-2fb5-406c-944d-69416b0bcee9",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/warlock-eye",
+                "color_tint": "#424242FF",
+                "color_background": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ad16d1e8-f72c-4c59-b052-685c30c3e5c9",
+      "amount": 4,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov9.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Al robarse esta carta, el líder que estes enfrentando realizará el ataque especial que se describe en su carta de personaje."
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "ATAQUE ESPECIAL"
+              }
+            },
+            {
+              "blueprint_panel_id": "258bb1a5-2fb5-406c-944d-69416b0bcee9",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/warlock-eye",
+                "color_tint": "#424242FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b15dfcc3-b0d6-4803-a307-e781043bdbf5",
+      "amount": 15,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/e1.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Esta carta se utiliza para realizar habilidades relacionadas con los ataques directos a criaturas o tacticas de combate, incluso para desafíos de aptitud física y defensa."
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "INSPIRACIÓN DE GUERRA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4d83e99c-85d7-47e5-b1bc-26e649ced345",
+      "amount": 7,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/e2.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Esta carta se utiliza para realizar habilidades especiales relacionadas con la magia escencial, la invocación de espiritus y manipulación de energías de la naturaleza."
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "CONCENTRACIÓN Y ESENCIA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "775b9ac3-d8a2-465f-8ce7-11f16ccdd720",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov1.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Permite a una criatura de tu grupo de combate realizar una segunda acción en este turno <b>[ G ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "MOVIMIENTO ESTRATÉGICO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "df51ce66-5c16-4c36-93a8-d4c0f6b76c8e",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov2.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Al utilizar esta carta escoge una criatura objetivo, la trampa le causara -1pv y quedará aturdido <b>[ G ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "TRAMPA DE OSO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b125cb24-fbc6-483a-8996-cf43d99e15c7",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov3.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Esta carta se utiliza cuando una criatura este por realizar un ataque, se reducirá el daño de dicho ataque (y solo de ese ataque) en -2pv, (si el daño de la criatura es igual o menor a 2pv, no se sufrirá daño alguno) <b>[ G ]</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "MOVIMIENTO DEFENSIVO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "43bf3688-b994-4028-bdcc-9e7ef0bc3f7e",
+      "amount": 5,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov10.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Esta carta permite tomar una unidad aliada del mazo, este nuevo aliado estará en tu reserva de tropas. Para ponerlo en juego deberás pagar su coste de reclutamiento.\n\n\n<b>[ O ] por cada unidad activa</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "RECLUTAMIENTO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0ed2f0e0-bfd7-4cfd-8044-6f1fd330f30d",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "531f70a4-6662-4c51-b5c8-4b980d143cd9",
+          "panels": [
+            {
+              "blueprint_panel_id": "a4853aac-3378-4ac6-a01a-1bdf6d0370eb",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mov11.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "0285b304-1851-4d43-aeb9-ed53695b22de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Esta carta permite sanar a cualquier unidad aliada, incluso de otro jugador, +1pv  <b>[ E ]</b> "
+              }
+            },
+            {
+              "blueprint_panel_id": "81011bfd-3ef7-4141-8991-df460c82642d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "HIERBA CURATIVA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

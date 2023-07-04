@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<panelMaterial>
+	<name>Rounded</name>
+	<order>back</order>
+	<tint editable="true">#ffffffff</tint>
+	<selector>Radius</selector>
+	<images>
+		<image id="3">
+			<name>rounded_3.png</name>
+			<borders>(4, 4, 4, 4)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="4">
+			<name>rounded_4.png</name>
+			<borders>(4, 4, 4, 4)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="5">
+			<name>rounded_5.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="6">
+			<name>rounded_6.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="7">
+			<name>rounded_7.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="8">
+			<name>rounded_8.png</name>
+			<borders>(8, 8, 8, 8)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="9">
+			<name>rounded_9.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="10">
+			<name>rounded_10.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="11">
+			<name>rounded_11.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="12">
+			<name>rounded_12.png</name>
+			<borders>(12, 12, 12, 12)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="13">
+			<name>rounded_13.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="14">
+			<name>rounded_14.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="15">
+			<name>rounded_15.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="16">
+			<name>rounded_16.png</name>
+			<borders>(16, 16, 16, 16)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="17">
+			<name>rounded_17.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="18">
+			<name>rounded_18.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="19">
+			<name>rounded_19.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="20">
+			<name>rounded_20.png</name>
+			<borders>(20, 20, 20, 20)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="21">
+			<name>rounded_21.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="22">
+			<name>rounded_22.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="23">
+			<name>rounded_23.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="24">
+			<name>rounded_24.png</name>
+			<borders>(24, 24, 24, 24)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="25">
+			<name>rounded_25.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="26">
+			<name>rounded_26.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="27">
+			<name>rounded_27.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="28">
+			<name>rounded_28.png</name>
+			<borders>(28, 28, 28, 28)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="29">
+			<name>rounded_29.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="30">
+			<name>rounded_30.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="31">
+			<name>rounded_31.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+		<image id="32">
+			<name>rounded_32.png</name>
+			<borders>(32, 32, 32, 32)</borders>
+			<padding>(0, 0, 0, 0)</padding>
+		</image>
+	</images>
+</panelMaterial>

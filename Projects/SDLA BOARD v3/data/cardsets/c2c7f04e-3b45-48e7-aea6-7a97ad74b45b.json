@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "c2c7f04e-3b45-48e7-aea6-7a97ad74b45b",
+  "name": "UNNAMED",
+  "blueprint_id": "683de031-e1d4-44c0-a83d-4e92304b6caf",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "a9416f49-ce87-4b72-a04a-eedf063a57ec",
+      "amount": 1
+    }
+  ]
+}

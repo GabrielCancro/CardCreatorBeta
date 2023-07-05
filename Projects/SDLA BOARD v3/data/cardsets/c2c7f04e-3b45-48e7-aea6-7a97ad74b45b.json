@@ -7,6 +7,71 @@
   "cards": [
     {
       "card_id": "a9416f49-ce87-4b72-a04a-eedf063a57ec",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
+          "panels": [
+            {
+              "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "type": "text",
+              "data": {
+                "text": "Especial"
+              }
+            },
+            {
+              "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "type": "text",
+              "data": {
+                "text": "1mo"
+              }
+            },
+            {
+              "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/daga_elfica.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "type": "text",
+              "data": {
+                "text": "BO +1"
+              }
+            },
+            {
+              "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "type": "text",
+              "data": {
+                "text": "Daga Élfica"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "b3141523-6657-4624-838c-ddd97325dcef",
+          "panels": [
+            {
+              "blueprint_panel_id": "45a9b988-1458-4cf9-8df8-50e216157cd7",
+              "type": "text",
+              "data": {
+                "text": "Arma"
+              }
+            },
+            {
+              "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9bdc910a-ce71-4394-91b4-a03994e44624",
       "amount": 1
     }
   ]

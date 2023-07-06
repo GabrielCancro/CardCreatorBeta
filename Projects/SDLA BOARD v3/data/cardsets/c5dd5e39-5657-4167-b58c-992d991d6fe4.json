@@ -1,0 +1,309 @@
+{
+  "version": 2.12,
+  "cardset_id": "c5dd5e39-5657-4167-b58c-992d991d6fe4",
+  "name": "Habilidades",
+  "blueprint_id": "56074223-b91f-4053-9ec1-e33cdd5f88fe",
+  "hint_order_index": 3,
+  "cards": [
+    {
+      "card_id": "02bdb776-b89a-4f36-8cc8-30c11aef7bea",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "+2 a las Tiradas de Asechar, en caso de éxito obtienes +2BO al primer ataque que realices, si fallas, eres detectado -2BO."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Asechar"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "354976ae-f642-4383-ac51-c2e5370d0f07",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Si el enemigo saca dos dados iguales al atacar, evitas el ataque y no recibed daño."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Evadir"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "28530e18-8248-4f54-8cb2-8883c92e52ff",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "+2 a las Tiradas de Atletismo, Trepar, Nadar, Saltar, Correr, Movilidad, etc."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Atleta"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1922c797-442f-4700-9414-bc1d78865112",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "+2 a las Tiradas de Convencer, Engañar, Descubrir mentiras."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Oratoria"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2d584d44-c143-49ae-a883-e56c7b9bab0e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "+2 a las Tiradas de Construir Trampas, Descubrir Trampas, Desarmar Trampas, Esquivar Trampas."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Trampero"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4bbc53ac-7304-4136-b27d-e0dd0d48d743",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "+2 a las Tiradas de Buscar o Rastrear, estas tiradas son grupales a menos que se especifique lo contrario."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Buscar"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4df0c9ae-be2f-4a66-aaba-658d3466c089",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Permite gastar un punto de acción para sanar 1PS una vez por día.\nAdemás durante la acampada, curas 1PS extra a algún aliado."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Sanar"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8aa7e5d0-1f59-4698-bb02-aed9bbc726df",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Puedes atacar a cualquier enemigo, aunque no seas adversario directo.\nAplica [DOS MANOS]"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "A DISTANCIA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "043cdf58-6a47-40cd-a41b-85fc4a204f81",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Si tu adversario saca al menos un [1] en su tirada de ataque, podrás contratacarlo con -1BO."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Contrataque"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "568189f2-89e8-4b48-a8d0-456ddade7b1b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Si al atacar, en los dados, sale al menos un [6], transforma uno de los PS dañados en una Herida Grave."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Herir"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "80cde2d8-4f9b-47d8-84bf-45084cc80dc3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Si en la tirada de ataque sale al menos un [6], añade al daño causado un PS extra."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Rotundo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "71615c91-62a7-4f75-be42-147ee7ee394c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Si al ser atacado, recibes 2 o mas PS de daño, reduces en uno el daño recibido."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Duro"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

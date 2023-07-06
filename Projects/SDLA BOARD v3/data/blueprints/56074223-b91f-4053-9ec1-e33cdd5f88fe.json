@@ -1,0 +1,292 @@
+{
+  "version": 2.12,
+  "blueprint_id": "56074223-b91f-4053-9ec1-e33cdd5f88fe",
+  "name": "UNNAMED",
+  "layout_size": "63.5, 35",
+  "layout_grid_size": "0.232, 0.232",
+  "layout_grid_offset": "0, 0",
+  "layout_grid_square": false,
+  "layout_grid_centered": false,
+  "main_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+  "front_layers": [
+    {
+      "layer_id": "a97adcb3-2ea1-4be7-84cb-4e5fe1810ab8",
+      "name": "Layer 01 Border",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "61d2a69a-ca0e-4711-9d77-620a64266e13",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#292A30FF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "205ef500-4d24-4fc0-adf2-43a631253b3a",
+      "name": "Layer 02 Background",
+      "padding": 0.0333333351,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "43bb8a27-fb7f-43db-9a60-976f3da84803",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/base_hab.png",
+            "mask_uri": "",
+            "fit_mode": "stretch",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#E1E7F2FF"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "309bec19-5f88-464c-b93e-bcfae5c27f1d",
+      "name": "Layer 03 Content",
+      "padding": 0.171428576,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "39778c26-a9c2-429c-9132-8307ecad67eb",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 4.971578E-08",
+          "anchor_max": "1, 0.7101521",
+          "anchor_max_render": "1, 0.7101521",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "5",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "b141633b-3ea5-497a-9626-4fc97914b446",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.7101521",
+          "anchor_min_render": "0, 0.7101521",
+          "anchor_max": "1, 0.7753156",
+          "anchor_max_render": "1, 0.7753156",
+          "type": "none",
+          "data": {},
+          "sort_mode": "4",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "3f6d5b12-0f27-4adf-9e7e-485388f6f1c5",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.7753156",
+          "anchor_min_render": "0, 0.7753156",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "3",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+      "name": "Content 2",
+      "padding": 0.171428576,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.05, 0.05, 0.05, 0.05",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 4.971578E-08",
+          "anchor_max": "1, 0.6938613",
+          "anchor_max_render": "1, 0.6938613",
+          "type": "text",
+          "data": {
+            "font_family": "",
+            "font_preferred_size": 24,
+            "line_spacing": 1.0,
+            "text_anchor": "middleleft",
+            "text": "Descripción de la habilidad",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "12",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "e4458850-77d0-4019-b17d-2307c3a5d466",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.05, 0.05, 0.05, 0.05",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.6938613",
+          "anchor_min_render": "0, 0.6938613",
+          "anchor_max": "1, 0.7712244",
+          "anchor_max_render": "1, 0.7712244",
+          "type": "none",
+          "data": {},
+          "sort_mode": "11",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0.05",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.7712244",
+          "anchor_min_render": "0, 0.7712243",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 0.9999999",
+          "type": "text",
+          "data": {
+            "font_family": "Noto Sans",
+            "font_preferred_size": 30,
+            "line_spacing": 1.0,
+            "text_anchor": "middleleft",
+            "text": "Habilidad",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "8",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "a169dad4-3dac-4410-931d-7efe106f34b7",
+      "name": "Layer 01 Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "8abc0613-07f1-49a5-bd55-95265450e5db",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/1c88a4d5-5d31-482c-95cf-66de83589bad.png",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "6",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

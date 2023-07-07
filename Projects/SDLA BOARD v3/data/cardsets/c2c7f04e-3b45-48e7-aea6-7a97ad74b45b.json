@@ -86,6 +86,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -93,6 +94,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3mo"
@@ -100,6 +102,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/escudo.png"
@@ -107,6 +110,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CA +1"
@@ -114,6 +118,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Escudo"
@@ -126,6 +131,7 @@
           "panels": [
             {
               "blueprint_panel_id": "45a9b988-1458-4cf9-8df8-50e216157cd7",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Escudo"
@@ -144,6 +150,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -151,6 +158,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1mo"
@@ -158,6 +166,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/esp_ancha.png"
@@ -165,6 +174,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BO +1"
@@ -172,6 +182,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Espada Ancha"
@@ -190,6 +201,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -197,6 +209,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2mo"
@@ -204,6 +217,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/arco_corto.png"
@@ -211,6 +225,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BO +1"
@@ -218,6 +233,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Arco Compuesto"
@@ -230,6 +246,7 @@
           "panels": [
             {
               "blueprint_panel_id": "45a9b988-1458-4cf9-8df8-50e216157cd7",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Arma"
@@ -237,6 +254,7 @@
             },
             {
               "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "A DISTANCIA"
@@ -255,6 +273,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -262,6 +281,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "10mo"
@@ -269,6 +289,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/ballesta.png"
@@ -276,6 +297,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BO +2"
@@ -283,6 +305,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ballesta"
@@ -295,6 +318,7 @@
           "panels": [
             {
               "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "A DISTANCIA"
@@ -313,6 +337,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Raro"
@@ -320,6 +345,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5mo\n"
@@ -327,6 +353,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/espadon.png"
@@ -334,6 +361,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BO +2"
@@ -341,6 +369,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Espadón"
@@ -353,6 +382,7 @@
           "panels": [
             {
               "blueprint_panel_id": "45a9b988-1458-4cf9-8df8-50e216157cd7",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Arma"
@@ -360,6 +390,7 @@
             },
             {
               "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "DOS MANOS"
@@ -378,6 +409,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -385,6 +417,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "6mo"
@@ -392,6 +425,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/hacha.png"
@@ -399,6 +433,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BO +1"
@@ -406,6 +441,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Hacha"
@@ -418,6 +454,7 @@
           "panels": [
             {
               "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "HERIR"
@@ -436,6 +473,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -443,6 +481,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "6mo"
@@ -450,6 +489,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/maza.png"
@@ -457,6 +497,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BO +1"
@@ -464,6 +505,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Maza"
@@ -476,6 +518,7 @@
           "panels": [
             {
               "blueprint_panel_id": "45a9b988-1458-4cf9-8df8-50e216157cd7",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Arma"
@@ -483,6 +526,7 @@
             },
             {
               "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "ROTUNDO"
@@ -501,6 +545,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Común"
@@ -508,6 +553,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2mp"
@@ -515,6 +561,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/Materiales.png"
@@ -522,6 +569,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "-"
@@ -529,6 +577,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Materiales"
@@ -547,6 +596,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -554,6 +604,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4mo"
@@ -561,6 +612,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/armadura_tachas.png"
@@ -568,6 +620,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CA +1"
@@ -575,6 +628,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Armadura de cuero"
@@ -593,6 +647,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Raro"
@@ -600,6 +655,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "7mo"
@@ -607,6 +663,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/armadura_coraza.png"
@@ -614,6 +671,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CA +1"
@@ -621,6 +679,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Coraza"
@@ -633,6 +692,7 @@
           "panels": [
             {
               "blueprint_panel_id": "34bff7ba-8a5d-4198-a44d-4a4de193b6d5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "DURO"
@@ -651,6 +711,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Común"
@@ -658,6 +719,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2mp"
@@ -665,6 +727,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/antorcha2.jpg"
@@ -672,6 +735,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "-"
@@ -679,6 +743,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Antorcha"
@@ -697,6 +762,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -704,6 +770,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4mo"
@@ -711,6 +778,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/hierba.png"
@@ -718,6 +786,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2 Heridas Leves"
@@ -725,6 +794,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Hierba Curativa"
@@ -743,6 +813,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Común"
@@ -750,6 +821,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2mp"
@@ -757,6 +829,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/RacionDeViaje.png"
@@ -764,6 +837,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1 Día"
@@ -771,6 +845,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ración de viaje"
@@ -789,6 +864,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -796,6 +872,7 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4mo"
@@ -803,6 +880,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/ganzuas.png"
@@ -810,6 +888,7 @@
             },
             {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2 Abrir Cerraduras"
@@ -817,6 +896,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ganzúa"
@@ -835,6 +915,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8b4d06e3-8c24-47a5-8213-a2c3598512df",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Especial"
@@ -842,13 +923,22 @@
             },
             {
               "blueprint_panel_id": "1188e9e7-c2e1-40d0-9b7d-0072e1bf4308",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5mo"
               }
             },
             {
+              "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/veneno.png"
+              }
+            },
+            {
               "blueprint_panel_id": "ce9137c2-4200-4626-a968-99b2a3b455c4",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Daño 1HL"
@@ -856,6 +946,7 @@
             },
             {
               "blueprint_panel_id": "8e402ac9-e456-42c1-8798-ff3e6d87f6f0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Veneno"

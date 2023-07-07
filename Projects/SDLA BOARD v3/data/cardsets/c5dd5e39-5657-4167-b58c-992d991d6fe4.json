@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2 a las Tiradas de Asechar, en caso de éxito obtienes +2BO al primer ataque que realices, si fallas, eres detectado -2BO."
@@ -21,6 +22,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Asechar"
@@ -39,6 +41,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Si el enemigo saca dos dados iguales al atacar, evitas el ataque y no recibed daño."
@@ -46,6 +49,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Evadir"
@@ -64,6 +68,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2 a las Tiradas de Atletismo, Trepar, Nadar, Saltar, Correr, Movilidad, etc."
@@ -71,6 +76,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Atleta"
@@ -89,6 +95,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2 a las Tiradas de Convencer, Engañar, Descubrir mentiras."
@@ -96,6 +103,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Oratoria"
@@ -114,6 +122,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2 a las Tiradas de Construir Trampas, Descubrir Trampas, Desarmar Trampas, Esquivar Trampas."
@@ -121,6 +130,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trampero"
@@ -139,6 +149,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2 a las Tiradas de Buscar o Rastrear, estas tiradas son grupales a menos que se especifique lo contrario."
@@ -146,6 +157,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Buscar"
@@ -164,6 +176,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Permite gastar un punto de acción para sanar 1PS una vez por día.\nAdemás durante la acampada, curas 1PS extra a algún aliado."
@@ -171,6 +184,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Sanar"
@@ -189,6 +203,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Puedes atacar a cualquier enemigo, aunque no seas adversario directo.\nAplica [DOS MANOS]"
@@ -196,6 +211,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "A DISTANCIA"
@@ -214,6 +230,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Si tu adversario saca al menos un [1] en su tirada de ataque, podrás contratacarlo con -1BO."
@@ -221,6 +238,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Contrataque"
@@ -239,6 +257,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Si al atacar, en los dados, sale al menos un [6], transforma uno de los PS dañados en una Herida Grave."
@@ -246,6 +265,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Herir"
@@ -264,6 +284,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Si en la tirada de ataque sale al menos un [6], añade al daño causado un PS extra."
@@ -271,6 +292,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Rotundo"
@@ -289,6 +311,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Si al ser atacado, recibes 2 o mas PS de daño, reduces en uno el daño recibido."
@@ -296,9 +319,152 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Duro"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9b2b2355-05a3-482b-ae8a-1b4f40e17a96",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "No podrás equiparte un escudo si llevas un arma a dos manos."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Dos Manos"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "56da032b-59fa-494d-844e-fa2c6319f318",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Cada vez que ataque, todos los jugadores deberán realizar una tirada de ATLETISMO dif(10), si fallan serán alcanzados por el agresor y recibiran un ataque."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Azotador"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "494ac206-dfd2-4d62-93a1-2b411aa80dc8",
+          "panels": [
+            {
+              "blueprint_panel_id": "abb04941-50aa-4268-8e0f-cd1b71512c2b",
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/metal-hand",
+                "color_tint": "#424242FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c805b260-85e0-4f69-b1ec-949639215356",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "Esta criatura no podrá ser elegida como adversario directo, si aún queda alguna otra criatura libre. Primero debes enfrentar a quienes esten en el frente de batalla."
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Retaguardia"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "494ac206-dfd2-4d62-93a1-2b411aa80dc8",
+          "panels": [
+            {
+              "blueprint_panel_id": "abb04941-50aa-4268-8e0f-cd1b71512c2b",
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/metal-hand",
+                "color_tint": "#424242FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e17357d8-166b-42f7-b3b3-ad44869bc4bb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "21edc004-364f-4651-b28c-859330db0f09",
+          "panels": [
+            {
+              "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "type": "text",
+              "data": {
+                "text": "-2BO si lo atacas a distancia"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "type": "text",
+              "data": {
+                "text": "Veloz"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "494ac206-dfd2-4d62-93a1-2b411aa80dc8",
+          "panels": [
+            {
+              "blueprint_panel_id": "abb04941-50aa-4268-8e0f-cd1b71512c2b",
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/metal-hand",
+                "color_tint": "#424242FF",
+                "color_background": "#00000000"
               }
             }
           ]

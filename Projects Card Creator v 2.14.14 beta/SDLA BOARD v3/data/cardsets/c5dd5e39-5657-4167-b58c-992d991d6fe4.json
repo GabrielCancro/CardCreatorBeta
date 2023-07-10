@@ -338,6 +338,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "No podrás equiparte un escudo si llevas un arma a dos manos."
@@ -345,6 +346,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Dos Manos"
@@ -363,6 +365,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Cada vez que ataque, todos los jugadores deberán realizar una tirada de ATLETISMO dif(10), si fallan serán alcanzados por el agresor y recibiran un ataque."
@@ -370,6 +373,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Azotador"
@@ -382,6 +386,7 @@
           "panels": [
             {
               "blueprint_panel_id": "abb04941-50aa-4268-8e0f-cd1b71512c2b",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Body&Actions/metal-hand",
@@ -402,6 +407,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Esta criatura no podrá ser elegida como adversario directo, si aún queda alguna otra criatura libre. Primero debes enfrentar a quienes esten en el frente de batalla."
@@ -409,6 +415,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Retaguardia"
@@ -421,6 +428,7 @@
           "panels": [
             {
               "blueprint_panel_id": "abb04941-50aa-4268-8e0f-cd1b71512c2b",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Body&Actions/metal-hand",
@@ -441,6 +449,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e5de27a4-f660-4969-82e4-d41cc79b1675",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "-2BO si lo atacas a distancia"
@@ -448,6 +457,7 @@
             },
             {
               "blueprint_panel_id": "0a08d53e-3a14-4f9b-abf0-ec1443c90ff9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Veloz"
@@ -460,6 +470,7 @@
           "panels": [
             {
               "blueprint_panel_id": "abb04941-50aa-4268-8e0f-cd1b71512c2b",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Body&Actions/metal-hand",

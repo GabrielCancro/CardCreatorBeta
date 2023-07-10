@@ -931,6 +931,7 @@
             },
             {
               "blueprint_panel_id": "dedf9f93-c70f-4907-bc26-36a3fc4520df",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/veneno.png"

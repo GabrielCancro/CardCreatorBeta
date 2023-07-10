@@ -79,7 +79,7 @@
     },
     {
       "card_id": "9bdc910a-ce71-4394-91b4-a03994e44624",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -194,7 +194,7 @@
     },
     {
       "card_id": "cf158b19-cc61-403b-8a27-c87db94a4190",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -538,7 +538,7 @@
     },
     {
       "card_id": "fbc15565-be4f-4557-90e2-50f61cc1c525",
-      "amount": 1,
+      "amount": 4,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -589,7 +589,7 @@
     },
     {
       "card_id": "ceaf0fa0-0112-4926-8384-2cd6b109c771",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -704,7 +704,7 @@
     },
     {
       "card_id": "0a834f4b-028a-4d6d-b6f6-039acc6c7af2",
-      "amount": 1,
+      "amount": 4,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -755,7 +755,7 @@
     },
     {
       "card_id": "cac8ef12-ad7c-4ba1-9cda-5e6cac836a1a",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -806,7 +806,7 @@
     },
     {
       "card_id": "84d817e2-3b90-4303-a5c1-922728bf3010",
-      "amount": 1,
+      "amount": 5,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -857,7 +857,7 @@
     },
     {
       "card_id": "51607cd0-3de7-4375-bd19-04344cd7ff6b",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",
@@ -908,7 +908,7 @@
     },
     {
       "card_id": "2701be61-7e05-4841-8972-85c85b16faab",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "d9c69858-5000-4545-879c-71b29dd8283d",

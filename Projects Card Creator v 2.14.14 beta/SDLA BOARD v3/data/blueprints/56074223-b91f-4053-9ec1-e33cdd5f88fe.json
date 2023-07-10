@@ -273,7 +273,7 @@
           "anchor_max_render": "0.8303697, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "9",
+          "sort_mode": "8",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -374,7 +374,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "8",
+          "sort_mode": "9",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

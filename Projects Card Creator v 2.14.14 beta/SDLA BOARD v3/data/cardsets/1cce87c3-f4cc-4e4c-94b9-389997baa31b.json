@@ -1,0 +1,273 @@
+{
+  "version": 2.12,
+  "cardset_id": "1cce87c3-f4cc-4e4c-94b9-389997baa31b",
+  "name": "Heroes",
+  "blueprint_id": "3a062d6c-ccf1-47b5-87c7-4a99b9ba12c0",
+  "hint_order_index": 4,
+  "cards": [
+    {
+      "card_id": "8df11d6c-075d-4be8-9049-f5677f9436a2",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad2ec175-bf98-406f-a973-b5f22722e315",
+          "panels": [
+            {
+              "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Heroes/r2x.png",
+                "fit_mode": "fit",
+                "offset": "0, -0.3"
+              }
+            },
+            {
+              "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "type": "text",
+              "data": {
+                "text": "3\n9\n5"
+              }
+            },
+            {
+              "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "type": "text",
+              "data": {
+                "text": "Hasim"
+              }
+            },
+            {
+              "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "type": "text",
+              "data": {
+                "text": "Enano Guerrero"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "6fcc7912-7861-4ef0-9227-baecb5e05486",
+          "panels": [
+            {
+              "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c0e755cf-b274-4547-8792-abcfd5332e51",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad2ec175-bf98-406f-a973-b5f22722e315",
+          "panels": [
+            {
+              "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Heroes/r7.png",
+                "fit_mode": "fit"
+              }
+            },
+            {
+              "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "type": "text",
+              "data": {
+                "text": "2\n8\n5"
+              }
+            },
+            {
+              "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "type": "text",
+              "data": {
+                "text": "Indriel"
+              }
+            },
+            {
+              "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "type": "text",
+              "data": {
+                "text": "Elfo Explorador"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "6fcc7912-7861-4ef0-9227-baecb5e05486",
+          "panels": [
+            {
+              "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "type": "text",
+              "data": {
+                "text": "Buscar - A Distancia - Asechar"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a13dedda-ec6f-450e-a037-bc7cc778fdce",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad2ec175-bf98-406f-a973-b5f22722e315",
+          "panels": [
+            {
+              "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Heroes/r1xx.png",
+                "fit_mode": "fit",
+                "offset": "0, -0.25"
+              }
+            },
+            {
+              "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "type": "text",
+              "data": {
+                "text": "3\n8\n5"
+              }
+            },
+            {
+              "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "type": "text",
+              "data": {
+                "text": "Colwin"
+              }
+            },
+            {
+              "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "type": "text",
+              "data": {
+                "text": "Humano Guerrero"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "6fcc7912-7861-4ef0-9227-baecb5e05486",
+          "panels": [
+            {
+              "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "type": "text",
+              "data": {
+                "text": "Evadir"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "bc7ffe1a-8a7e-44c7-b697-3461a91f7f8a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad2ec175-bf98-406f-a973-b5f22722e315",
+          "panels": [
+            {
+              "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Heroes/r4.png",
+                "fit_mode": "fit",
+                "offset": "0, -0.2"
+              }
+            },
+            {
+              "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "type": "text",
+              "data": {
+                "text": "2\n8\n6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "type": "text",
+              "data": {
+                "text": "Hernik"
+              }
+            },
+            {
+              "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "type": "text",
+              "data": {
+                "text": "Humano Explorador"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "6fcc7912-7861-4ef0-9227-baecb5e05486",
+          "panels": [
+            {
+              "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "type": "text",
+              "data": {
+                "text": "Atleta - Trampero"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c8d14dea-d04e-43f7-aa8b-174a5d2b328a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad2ec175-bf98-406f-a973-b5f22722e315",
+          "panels": [
+            {
+              "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Heroes/r5.png",
+                "fit_mode": "fit",
+                "offset": "0, -0.3"
+              }
+            },
+            {
+              "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "type": "text",
+              "data": {
+                "text": "2\n8\n5"
+              }
+            },
+            {
+              "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "type": "text",
+              "data": {
+                "text": "Anika"
+              }
+            },
+            {
+              "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "type": "text",
+              "data": {
+                "text": "Humano Artesano"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "6fcc7912-7861-4ef0-9227-baecb5e05486",
+          "panels": [
+            {
+              "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "type": "text",
+              "data": {
+                "text": "Oratoria - Sanar - Evadir"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

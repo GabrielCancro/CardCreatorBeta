@@ -313,7 +313,7 @@
           "anchor_max_render": "1, 0.6876242",
           "type": "none",
           "data": {},
-          "sort_mode": "10",
+          "sort_mode": "9",
           "split_mode": "horizontal",
           "parent_panel_id": "5d9898a1-ff62-4952-866e-510546227b2b"
         },
@@ -337,7 +337,7 @@
             "color_tint": "#424242FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "11",
+          "sort_mode": "10",
           "split_mode": "horizontal",
           "parent_panel_id": "5d9898a1-ff62-4952-866e-510546227b2b"
         }
@@ -374,7 +374,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "9",
+          "sort_mode": "11",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

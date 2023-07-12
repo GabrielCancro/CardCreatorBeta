@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Heroes/r2x.png",
@@ -23,6 +24,7 @@
             },
             {
               "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3\n9\n5"
@@ -30,6 +32,7 @@
             },
             {
               "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Hasim"
@@ -37,6 +40,7 @@
             },
             {
               "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Enano Guerrero"
@@ -49,9 +53,10 @@
           "panels": [
             {
               "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": " "
+                "text": "-"
               }
             }
           ]
@@ -67,6 +72,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Heroes/r7.png",
@@ -75,6 +81,7 @@
             },
             {
               "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2\n8\n5"
@@ -82,6 +89,7 @@
             },
             {
               "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Indriel"
@@ -89,6 +97,7 @@
             },
             {
               "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Elfo Explorador"
@@ -101,6 +110,7 @@
           "panels": [
             {
               "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Buscar - A Distancia - Asechar"
@@ -119,6 +129,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Heroes/r1xx.png",
@@ -128,6 +139,7 @@
             },
             {
               "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3\n8\n5"
@@ -135,6 +147,7 @@
             },
             {
               "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Colwin"
@@ -142,6 +155,7 @@
             },
             {
               "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Humano Guerrero"
@@ -154,6 +168,7 @@
           "panels": [
             {
               "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Evadir"
@@ -172,6 +187,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Heroes/r4.png",
@@ -181,6 +197,7 @@
             },
             {
               "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2\n8\n6"
@@ -188,6 +205,7 @@
             },
             {
               "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Hernik"
@@ -195,6 +213,7 @@
             },
             {
               "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Humano Explorador"
@@ -207,6 +226,7 @@
           "panels": [
             {
               "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Atleta - Trampero"
@@ -225,6 +245,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f5602c30-58e3-46a6-bd9b-9b456ff6721d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Heroes/r5.png",
@@ -234,6 +255,7 @@
             },
             {
               "blueprint_panel_id": "259b9d44-575b-4ba8-bb77-ab2018160b35",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2\n8\n5"
@@ -241,6 +263,7 @@
             },
             {
               "blueprint_panel_id": "0f5cab0b-df23-41ed-b6fe-bd800d545cef",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Anika"
@@ -248,6 +271,7 @@
             },
             {
               "blueprint_panel_id": "175f728e-d3a2-4720-876b-9dea590ac469",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Humano Artesano"
@@ -260,6 +284,7 @@
           "panels": [
             {
               "blueprint_panel_id": "89d5cfb6-4e2c-4bd1-a13a-5c7e6debb4d9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Oratoria - Sanar - Evadir"

@@ -1,0 +1,120 @@
+{
+  "version": 2.12,
+  "blueprint_id": "bfe1c417-0f8a-47bf-ba91-6eba3d31aa06",
+  "name": "ETAPA2",
+  "layout_size": "58, 88.9",
+  "layout_grid_size": "0.232, 0.232",
+  "layout_grid_offset": "0, 0",
+  "layout_grid_square": false,
+  "layout_grid_centered": false,
+  "main_panel_id": "00000000-0000-0000-0000-000000000000",
+  "front_layers": [
+    {
+      "layer_id": "c3362b23-3bdf-4dfa-b76b-a6928881d033",
+      "name": "Layer 01 Border",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "bbe45694-7ed6-4e2e-8215-83ca649bde28",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#292A30FF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "f14de74b-780d-4834-8487-27858d6e21ff",
+      "name": "Layer 02 Background",
+      "padding": 0.0314960629,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "ae1346e6-89ca-4267-b263-93f63dff7876",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/actions.jpg",
+            "mask_uri": "",
+            "fit_mode": "stretch",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#E1E7F2FF"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "7d018e04-f49f-4f51-a411-c3ffb8258a9b",
+      "name": "Layer 01 Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "bc05e2a6-6f4a-4046-9075-d3a804772f5a",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/actions/ETAPA2.jpg",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "2",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

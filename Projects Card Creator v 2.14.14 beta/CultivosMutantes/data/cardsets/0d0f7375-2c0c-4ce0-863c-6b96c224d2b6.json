@@ -1,0 +1,117 @@
+{
+  "version": 2.12,
+  "cardset_id": "0d0f7375-2c0c-4ce0-863c-6b96c224d2b6",
+  "name": "ETAPA1",
+  "blueprint_id": "057f6556-0cb0-4ca9-aa65-8e69d083d706",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "7d91a3ca-8d8a-4adb-9305-ee632ab41109",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "9e55c3b6-4bc3-47fb-80d0-677c7cf8c5f1",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b285b7a-aff3-44aa-a484-7ea2cdc3e88c",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/actions/card1.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "18dcdba2-5acc-4e41-995f-5d11855fedad",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "9e55c3b6-4bc3-47fb-80d0-677c7cf8c5f1",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b285b7a-aff3-44aa-a484-7ea2cdc3e88c",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/actions/card2.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "456f64e5-11d0-4ac4-a861-615c4c9c8523",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "9e55c3b6-4bc3-47fb-80d0-677c7cf8c5f1",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b285b7a-aff3-44aa-a484-7ea2cdc3e88c",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/actions/card3.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "74f5804d-7d48-45fe-8c91-301553423f06",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "9e55c3b6-4bc3-47fb-80d0-677c7cf8c5f1",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b285b7a-aff3-44aa-a484-7ea2cdc3e88c",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/actions/card4.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1f19654c-ca6d-4b88-8b55-a120d83d2b4c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "9e55c3b6-4bc3-47fb-80d0-677c7cf8c5f1",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b285b7a-aff3-44aa-a484-7ea2cdc3e88c",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/actions/card5.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f0ea347b-6a9c-40ca-bd9a-d83397bfb177",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "9e55c3b6-4bc3-47fb-80d0-677c7cf8c5f1",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b285b7a-aff3-44aa-a484-7ea2cdc3e88c",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/actions/card6.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -96,7 +96,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0",
+          "anchor_min_render": "0, -9.454021E-09",
           "anchor_max": "1, 0.245648",
           "anchor_max_render": "1, 0.245648",
           "type": "none",
@@ -116,9 +116,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "-9.047599E-08, 0",
+          "anchor_min_render": "0, -9.454021E-09",
           "anchor_max": "0.4111325, 1",
-          "anchor_max_render": "0.4111324, 0.245648",
+          "anchor_max_render": "0.4111326, 0.245648",
           "type": "image",
           "data": {
             "uri": "%PROJECT%/f_agua.png",
@@ -128,7 +128,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "24",
+          "sort_mode": "2",
           "split_mode": "vertical",
           "parent_panel_id": "b399751d-15a8-4817-a2a1-7509aac1237d"
         },
@@ -143,12 +143,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.4111325, 0",
-          "anchor_min_render": "0.4111325, 0",
+          "anchor_min_render": "0.4111326, -9.454021E-09",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.9999998, 0.245648",
+          "anchor_max_render": "1, 0.245648",
           "type": "none",
           "data": {},
-          "sort_mode": "25",
+          "sort_mode": "3",
           "split_mode": "vertical",
           "parent_panel_id": "b399751d-15a8-4817-a2a1-7509aac1237d"
         },
@@ -168,7 +168,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "23",
+          "sort_mode": "5",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -191,7 +191,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 3.019337E-08",
+          "anchor_min_render": "0, 1.934321E-08",
           "anchor_max": "1, 0.2120915",
           "anchor_max_render": "1, 0.2120916",
           "type": "none",
@@ -211,9 +211,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 3.019337E-08",
+          "anchor_min_render": "0, 1.934321E-08",
           "anchor_max": "0.1868755, 1",
-          "anchor_max_render": "0.1868754, 0.2120916",
+          "anchor_max_render": "0.1868756, 0.2120916",
           "type": "text",
           "data": {
             "font_family": "Aharoni Bold",
@@ -227,7 +227,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "13",
+          "sort_mode": "7",
           "split_mode": "vertical",
           "parent_panel_id": "ce5c6033-56ea-4faa-abb5-cb01f105647b"
         },
@@ -242,7 +242,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.1868755, 0",
-          "anchor_min_render": "0.1868755, 3.019337E-08",
+          "anchor_min_render": "0.1868755, 1.934321E-08",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 0.2120916",
           "type": "text",
@@ -258,7 +258,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "14",
+          "sort_mode": "8",
           "split_mode": "vertical",
           "parent_panel_id": "ce5c6033-56ea-4faa-abb5-cb01f105647b"
         },
@@ -275,7 +275,7 @@
           "anchor_min": "0, 0.2120915",
           "anchor_min_render": "0, 0.2120915",
           "anchor_max": "1, 0.3149866",
-          "anchor_max_render": "1, 0.3149867",
+          "anchor_max_render": "1, 0.3149866",
           "type": "none",
           "data": {},
           "sort_mode": "7",
@@ -293,9 +293,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.2120915",
+          "anchor_min_render": "1.200661E-07, 0.2120915",
           "anchor_max": "0.2329345, 1",
-          "anchor_max_render": "0.2329344, 0.3149867",
+          "anchor_max_render": "0.2329347, 0.3149866",
           "type": "text",
           "data": {
             "font_family": "Aharoni Bold",
@@ -309,7 +309,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "8",
+          "sort_mode": "9",
           "split_mode": "vertical",
           "parent_panel_id": "1644bd5a-1422-4930-a865-60fa71bc912e"
         },
@@ -326,7 +326,7 @@
           "anchor_min": "0.2329345, 0",
           "anchor_min_render": "0.2329345, 0.2120915",
           "anchor_max": "0.4970061, 1",
-          "anchor_max_render": "0.497006, 0.3149867",
+          "anchor_max_render": "0.4970062, 0.3149866",
           "type": "text",
           "data": {
             "font_family": "Arial Bold",
@@ -340,7 +340,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "7",
+          "sort_mode": "10",
           "split_mode": "vertical",
           "parent_panel_id": "1644bd5a-1422-4930-a865-60fa71bc912e"
         },
@@ -355,9 +355,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.4970061, 0",
-          "anchor_min_render": "0.4970061, 0.2120915",
+          "anchor_min_render": "0.4970062, 0.2120915",
           "anchor_max": "0.7365128, 1",
-          "anchor_max_render": "0.7365128, 0.3149867",
+          "anchor_max_render": "0.7365128, 0.3149866",
           "type": "text",
           "data": {
             "font_family": "Aharoni Bold",
@@ -386,9 +386,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.7365128, 0",
-          "anchor_min_render": "0.7365129, 0.2120915",
+          "anchor_min_render": "0.7365128, 0.2120915",
           "anchor_max": "1, 1",
-          "anchor_max_render": "1, 0.3149867",
+          "anchor_max_render": "1, 0.3149866",
           "type": "text",
           "data": {
             "font_family": "Arial Bold",
@@ -402,7 +402,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "10",
+          "sort_mode": "12",
           "split_mode": "vertical",
           "parent_panel_id": "1644bd5a-1422-4930-a865-60fa71bc912e"
         },
@@ -419,7 +419,7 @@
           "anchor_min": "0, 0.3149866",
           "anchor_min_render": "0, 0.3149866",
           "anchor_max": "1, 0.9046549",
-          "anchor_max_render": "1, 0.9046549",
+          "anchor_max_render": "1, 0.904655",
           "type": "image",
           "data": {
             "uri": "%PROJECT%/berenjena.png",
@@ -429,7 +429,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "4",
+          "sort_mode": "6",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -444,12 +444,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.9046549",
-          "anchor_min_render": "0, 0.9046549",
+          "anchor_min_render": "0, 0.904655",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "3",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -477,7 +477,7 @@
           "anchor_max_render": "1, 0.8259187",
           "type": "none",
           "data": {},
-          "sort_mode": "19",
+          "sort_mode": "13",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -523,9 +523,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "9.047599E-08, 0.8259187",
+          "anchor_min_render": "0, 0.8259187",
           "anchor_max": "0.2480731, 1",
-          "anchor_max_render": "0.2480731, 1",
+          "anchor_max_render": "0.2480732, 1",
           "type": "text",
           "data": {
             "font_family": "Aharoni Bold",
@@ -539,7 +539,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "17",
+          "sort_mode": "14",
           "split_mode": "vertical",
           "parent_panel_id": "dc63ef86-8da9-46a2-820b-5902976a273c"
         },
@@ -554,13 +554,13 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.2480731, 0",
-          "anchor_min_render": "0.248073, 0.8259187",
+          "anchor_min_render": "0.2480731, 0.8259187",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.9999998, 1",
+          "anchor_max_render": "1, 1",
           "type": "text",
           "data": {
-            "font_family": "Aharoni Bold",
-            "font_preferred_size": 33,
+            "font_family": "Berlin Sans FB Demi Bold",
+            "font_preferred_size": 35,
             "line_spacing": 1.0,
             "text_anchor": "middlecenter",
             "text": "BERENJENA",
@@ -570,7 +570,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "18",
+          "sort_mode": "15",
           "split_mode": "vertical",
           "parent_panel_id": "dc63ef86-8da9-46a2-820b-5902976a273c"
         }
@@ -607,7 +607,7 @@
             "offset": "0, 0",
             "tint": "#181818FF"
           },
-          "sort_mode": "15",
+          "sort_mode": "16",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -635,14 +635,14 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/back.jpg",
+            "uri": "%PROJECT%/cardback.jpg",
             "mask_uri": "",
-            "fit_mode": "fit",
+            "fit_mode": "stretch",
             "zoom": 1.0,
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "20",
+          "sort_mode": "17",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -670,7 +670,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "21",
+          "sort_mode": "18",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

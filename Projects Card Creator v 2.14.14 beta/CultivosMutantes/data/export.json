@@ -11,7 +11,7 @@
   "image_filename_format": "%n - %i (%s)",
   "pdf_intercalate_pages": false,
   "tts_grid": "10, 7",
-  "export_images": true,
+  "export_images": false,
   "export_pdf": true,
-  "export_tts": true
+  "export_tts": false
 }

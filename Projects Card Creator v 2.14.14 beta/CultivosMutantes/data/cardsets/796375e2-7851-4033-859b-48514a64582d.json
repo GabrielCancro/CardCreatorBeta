@@ -599,6 +599,7 @@
           "panels": [
             {
               "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/f_carne.png"
@@ -611,6 +612,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f0e680a9-dc7c-4603-babc-63bbe11a4e89",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -618,6 +620,7 @@
             },
             {
               "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Sembrá gratis un cultivo disponible o del mazo, luego rotá los cultivos"
@@ -625,6 +628,7 @@
             },
             {
               "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -632,6 +636,7 @@
             },
             {
               "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+3"
@@ -639,6 +644,7 @@
             },
             {
               "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2"
@@ -646,6 +652,7 @@
             },
             {
               "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2"
@@ -653,6 +660,7 @@
             },
             {
               "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/pera.png"
@@ -665,6 +673,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -672,6 +681,7 @@
             },
             {
               "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "PERA"
@@ -690,6 +700,7 @@
           "panels": [
             {
               "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ganás 5ptos si en tu cultivo hay una acelga y una cebolla (1 o más de cada una)"
@@ -697,6 +708,7 @@
             },
             {
               "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2"
@@ -704,6 +716,7 @@
             },
             {
               "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2"
@@ -711,6 +724,7 @@
             },
             {
               "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -718,6 +732,7 @@
             },
             {
               "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+3"
@@ -725,6 +740,7 @@
             },
             {
               "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/calabaza.png"
@@ -737,6 +753,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -744,6 +761,7 @@
             },
             {
               "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CALABAZA"
@@ -762,6 +780,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f0e680a9-dc7c-4603-babc-63bbe11a4e89",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -769,6 +788,7 @@
             },
             {
               "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ganás 4ptos sí tu reserva es la que suma mayor cantidad de recursos (fichas)"
@@ -776,6 +796,7 @@
             },
             {
               "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -783,6 +804,7 @@
             },
             {
               "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+5"
@@ -790,6 +812,7 @@
             },
             {
               "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -797,6 +820,7 @@
             },
             {
               "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+5"
@@ -804,6 +828,7 @@
             },
             {
               "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/melon.png"
@@ -816,6 +841,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "6"
@@ -823,6 +849,7 @@
             },
             {
               "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "MELON"
@@ -841,6 +868,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f0e680a9-dc7c-4603-babc-63bbe11a4e89",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -848,6 +876,7 @@
             },
             {
               "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Si al finalizar el juego, tenés una Pera, ganás 1pto por cada planta que sembraste"
@@ -855,6 +884,7 @@
             },
             {
               "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -862,6 +892,7 @@
             },
             {
               "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+4"
@@ -869,6 +900,7 @@
             },
             {
               "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -876,6 +908,7 @@
             },
             {
               "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+3"
@@ -883,6 +916,7 @@
             },
             {
               "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/durazno.png"
@@ -895,6 +929,7 @@
           "panels": [
             {
               "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -902,6 +937,7 @@
             },
             {
               "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "DURAZNO"

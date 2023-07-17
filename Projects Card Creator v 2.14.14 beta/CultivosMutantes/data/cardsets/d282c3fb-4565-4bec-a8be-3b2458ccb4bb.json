@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7335f9a2-ff64-483a-809c-a5bc84e8d897",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/actions/card10.jpg"
@@ -32,6 +33,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7335f9a2-ff64-483a-809c-a5bc84e8d897",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/actions/card11.jpg"
@@ -50,6 +52,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7335f9a2-ff64-483a-809c-a5bc84e8d897",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/actions/card12.jpg"

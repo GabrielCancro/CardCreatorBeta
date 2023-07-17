@@ -1,0 +1,540 @@
+{
+  "version": 2.12,
+  "cardset_id": "796375e2-7851-4033-859b-48514a64582d",
+  "name": "UNNAMED",
+  "blueprint_id": "df02a5a6-afa5-4969-a509-d95716b4a674",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "b39aa0df-d32e-44e8-a892-b69d31aa3ed8",
+      "amount": 1
+    },
+    {
+      "card_id": "eb052905-314d-46b0-8c8d-90dbf7966643",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "Gana 1pto por cada acelga que tengas sembrada (incluyendo esta)"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/acelga.png",
+                "offset": "-0.06, 0"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "ACELGA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8db61cbe-60c8-44c4-8ddb-94be9c813551",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "Al final del juegos, podés contar al arandano como si fuese cualquier otra planta"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "type": "text",
+              "data": {
+                "text": "+4"
+              }
+            },
+            {
+              "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "type": "text",
+              "data": {
+                "text": "+4"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/arandano.png",
+                "offset": "0.05, -0.1"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "ARANDANO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b2c207c8-3f4e-4a60-ba3e-94b91ef8fae0",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "gana 1pto por cada cebolla que tengas sembrada (incluyendo esta)"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/cebolla.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "CEBOLLA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "44835ac5-5390-4cf1-b921-7bdbdca07de5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "Al final del juego ganas 1pto por cada 3 fichas de agua que tengas en tu reserva"
+              }
+            },
+            {
+              "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "type": "text",
+              "data": {
+                "text": "+3"
+              }
+            },
+            {
+              "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "type": "text",
+              "data": {
+                "text": "+4"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/frutilla.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "FRUTILLA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "80cca602-ede5-483c-9eb6-ca4e2b24657b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "Si sembraste otro pepino más, al final del juego ganás 4ptos"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "ac54bab0-9170-4d6d-9ac2-7d33e7d14246",
+              "type": "text",
+              "data": {
+                "text": "+2"
+              }
+            },
+            {
+              "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "type": "text",
+              "data": {
+                "text": "+2"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/pepino.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "PEPINO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b3f753b0-0d73-4c7c-a954-a88ed8d5b8aa",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "Al final del juego ganas 2ptos por cada 3 fichas de carne en tu reserva"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "type": "text",
+              "data": {
+                "text": "+4"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/morron.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f7db0cd-1cdd-42cd-a27a-76dce8930a66",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "MORRON"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "afbc144c-e8d7-45cf-a929-b39814216ce5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "31b380b7-3f9c-420e-9a42-d5c75978315c",
+          "panels": [
+            {
+              "blueprint_panel_id": "0a601192-8004-4455-a8bf-2b75e3b11943",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f_carne.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "28e1ee64-a4ac-4c8b-ae24-365e45d1dd8f",
+          "panels": [
+            {
+              "blueprint_panel_id": "f0e680a9-dc7c-4603-babc-63bbe11a4e89",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "48a1c829-fdf8-49f4-9782-e31f27d4f30e",
+              "type": "text",
+              "data": {
+                "text": "Copia la habilidad de un cultivo que tenga otro jugador, el que tu elijas"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8bade1e-b3f3-40c9-a10b-5a86f395082a",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "f2cfb863-4c4c-4a9d-a43e-62ba176e8f3b",
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "4305da38-f922-4236-9274-71e8bbc0bd08",
+              "type": "text",
+              "data": {
+                "text": "+2"
+              }
+            },
+            {
+              "blueprint_panel_id": "42066c3f-ae07-4ca9-8718-bbc39e0e5cec",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/brocoli.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "bb94b7e3-01ef-4011-9e22-cbc87f16b574",
+          "panels": [
+            {
+              "blueprint_panel_id": "e8af1fd3-2dec-43df-999d-3d61f0e6f453",
+              "type": "text",
+              "data": {
+                "text": "BROCOLI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "version": 2.12,
+  "blueprint_id": "baccd0a3-e846-4b70-b6ba-16d070e1225f",
+  "name": "Cartas",
+  "layout_size": "50, 75",
+  "layout_grid_size": "0.232, 0.232",
+  "layout_grid_offset": "0, 0",
+  "layout_grid_square": false,
+  "layout_grid_centered": false,
+  "main_panel_id": "593fa047-434c-4a3d-a0f6-f044267248ba",
+  "front_layers": [
+    {
+      "layer_id": "6cdbbac0-4606-4803-bf2a-a9e5a0add139",
+      "name": "Layer 01 Border",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "c3555cd4-1c92-46cd-a581-da25214d2556",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#292A30FF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "3684bfd9-1898-4a1f-abd0-2cf2ecbaeee7",
+      "name": "Layer 02 Background",
+      "padding": 0.04,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "714879f7-8212-4ad5-a29a-430add0fd001",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/front5.jpg",
+            "mask_uri": "",
+            "fit_mode": "fitheight",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
+      "name": "Layer 03 Content",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0.1, 0, 0.1",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 0.2011606",
+          "anchor_max_render": "1, 0.2011605",
+          "type": "text",
+          "data": {
+            "font_family": "Open Sans",
+            "font_preferred_size": 20,
+            "line_spacing": 0.9,
+            "text_anchor": "middlecenter",
+            "text": " ",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "4",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.1, 0.1, 0, 0.1",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.2011606",
+          "anchor_min_render": "0, 0.2011605",
+          "anchor_max": "1, 0.8143134",
+          "anchor_max_render": "1, 0.8143134",
+          "type": "text",
+          "data": {
+            "font_family": "",
+            "font_preferred_size": 24,
+            "line_spacing": 0.9,
+            "text_anchor": "middlecenter",
+            "text": "Descripcion de la carta, un beneficio o lo que fuese",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "3",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.2, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.8143134",
+          "anchor_min_render": "0, 0.8143134",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "text",
+          "data": {
+            "font_family": "Berlin Sans FB",
+            "font_preferred_size": 30,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "Nombre Carta",
+            "color": "#333333FF",
+            "outline_length": 2.0,
+            "outline_color": "#FFFFFFFF",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "5",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "ba3ec57d-111b-4ebd-b140-dceaa7ab08c8",
+      "name": "Layer 01 Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.02,
+      "panels": [
+        {
+          "panel_id": "57f6bde6-d4e5-4cb4-a518-4f69a631a0fb",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/temple.jpg",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "6",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "fced318e-29e8-4465-bd3e-258dc9ef013d",
+      "name": "",
+      "padding": 0.0314960629,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "42b6c8e3-9890-47c3-ac51-f68b573cf089",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/temple.jpg",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "7",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "3af6fc90-ef94-4bab-94de-f2b9a7674af5",
+      "name": "",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "593fa047-434c-4a3d-a0f6-f044267248ba",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.85, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "text",
+          "data": {
+            "font_family": "Berlin Sans FB",
+            "font_preferred_size": 24,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "ADEPTOS",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#CBB1B1FF",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "8",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

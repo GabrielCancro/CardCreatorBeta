@@ -96,9 +96,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0",
+          "anchor_min_render": "0, 1.84955E-08",
           "anchor_max": "1, 0.2011606",
-          "anchor_max_render": "1, 0.2011605",
+          "anchor_max_render": "1, 0.2011606",
           "type": "text",
           "data": {
             "font_family": "Open Sans",
@@ -112,7 +112,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "4",
+          "sort_mode": "2",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -127,9 +127,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.2011606",
-          "anchor_min_render": "0, 0.2011605",
+          "anchor_min_render": "0, 0.2011606",
           "anchor_max": "1, 0.8143134",
-          "anchor_max_render": "1, 0.8143134",
+          "anchor_max_render": "1, 0.8143135",
           "type": "text",
           "data": {
             "font_family": "",
@@ -158,7 +158,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.8143134",
-          "anchor_min_render": "0, 0.8143134",
+          "anchor_min_render": "0, 0.8143135",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 1",
           "type": "text",
@@ -174,7 +174,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "5",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -211,7 +211,7 @@
             "offset": "0, 0",
             "tint": "#000000FF"
           },
-          "sort_mode": "6",
+          "sort_mode": "5",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -246,7 +246,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "7",
+          "sort_mode": "6",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -285,7 +285,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "8",
+          "sort_mode": "7",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

@@ -7,13 +7,14 @@
   "cards": [
     {
       "card_id": "7b9bdb34-f4e5-43bf-870a-262d539048d1",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
           "panels": [
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Utiliza esta carta para robar un recurso a un jugador a elección.\n"
@@ -21,6 +22,7 @@
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "SAQUEOS"
@@ -31,46 +33,15 @@
       ]
     },
     {
-      "card_id": "30ffdead-97e0-4630-910d-7702823398ec",
-      "amount": 1,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
-          "panels": [
-            {
-              "blueprint_panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
-              "type": "text",
-              "data": {
-                "text": "(No acumulable)"
-              }
-            },
-            {
-              "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
-              "type": "text",
-              "data": {
-                "text": "Esta carta otorga un punto de FE al jugador que la posea."
-              }
-            },
-            {
-              "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
-              "type": "text",
-              "data": {
-                "text": "FE"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "card_id": "83066c73-35f4-43ef-93c7-9d0cc73d4d4c",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
           "panels": [
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Utiliza esta carta para construir una choza sin pagar ningún coste por ella."
@@ -78,6 +49,7 @@
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CONSTRUCTORES"
@@ -89,13 +61,14 @@
     },
     {
       "card_id": "9af9639d-f290-4f65-bed2-9bf590cf42bb",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
           "panels": [
             {
               "blueprint_panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "(Esta carta debe jugarse antes de tirar los dados)\n"
@@ -103,6 +76,7 @@
             },
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Cuando estés atacando, juega esta carta y ganarás si o si la próxima ronda."
@@ -110,6 +84,7 @@
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "ATACANTES"
@@ -120,14 +95,50 @@
       ]
     },
     {
+      "card_id": "43cf6811-ecc9-4340-be8f-55a6ac477a97",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
+          "panels": [
+            {
+              "blueprint_panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "(Gana incluso si se jugó “ATACANTES”)\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Cuando te estén atacando, juega esta carta y ganarás si o si tu próxima defensa."
+              }
+            },
+            {
+              "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "DEFENSORES"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card_id": "b3771caf-8ef0-48e0-b867-c8045c20f9a2",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
           "panels": [
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Utiliza esta carta para mover a tu chamán dos casillas en lugar de una."
@@ -135,6 +146,7 @@
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CAMINO \nESCONDIDO"
@@ -153,6 +165,7 @@
           "panels": [
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Al usar esta carta podrás cambiar un recurso por otro tantas veces como quieras en este turno."
@@ -160,6 +173,7 @@
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "TRUEQUE"
@@ -178,16 +192,18 @@
           "panels": [
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Utiliza DOS de estas cartas para gastarlas y destruir una choza adyacente a tu chamán."
+                "text": "Utiliza esta carta gastando 1 de comida y 1 de madera para destruir una choza adyacente a tu chamán sin necesidad de realizar un combate."
               }
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "FUERZAS\nCOMBINADA"
+                "text": "REBELION"
               }
             }
           ]
@@ -196,13 +212,14 @@
     },
     {
       "card_id": "dc27f433-6732-4d85-b83b-63a2b55649e3",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
           "panels": [
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Utiliza esta carta para adquirir un súbdito extra, o quitar un súbdito a un  jugador a elección."
@@ -210,6 +227,7 @@
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "SEÑAL DIVINA"
@@ -220,31 +238,34 @@
       ]
     },
     {
-      "card_id": "43cf6811-ecc9-4340-be8f-55a6ac477a97",
-      "amount": 1,
+      "card_id": "78b9cb5c-97bd-4427-809f-863f94fc4682",
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
           "panels": [
             {
               "blueprint_panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "(Gana incluso si se jugó “ATACANTES”)\n"
+                "text": "(Solo puedes construir un templo) "
               }
             },
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Cuando te estén atacando, juega esta carta y ganarás si o si tu próxima defensa."
+                "text": "Paga DOS recursos de cada tipo (2C+2M) y coloca esta carta en tu zona de juego. Esta carta te otorga permanentemente un punto extra de FE."
               }
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "DEFENSORES"
+                "text": "TEMPLO"
               }
             }
           ]
@@ -252,7 +273,82 @@
       ]
     },
     {
-      "card_id": "78b9cb5c-97bd-4427-809f-863f94fc4682",
+      "card_id": "ce78eb89-f780-4908-b47f-3d4178fcb33e",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
+          "panels": [
+            {
+              "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "type": "text",
+              "data": {
+                "text": "Esta carta te otorga un punto de FE si tienes mas chozas que todos tus adversarios."
+              }
+            },
+            {
+              "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "type": "text",
+              "data": {
+                "text": "DOMINIO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "42967052-cc1e-4b35-8eaf-114b00544b3f",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
+          "panels": [
+            {
+              "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "type": "text",
+              "data": {
+                "text": "Esta carta te otorga un punto de FE si tienes mas súbditos que todos tus adversarios."
+              }
+            },
+            {
+              "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "type": "text",
+              "data": {
+                "text": "CREYENTES"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d4f58b6c-eded-437e-b878-bc094cefa43b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
+          "panels": [
+            {
+              "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "type": "text",
+              "data": {
+                "text": "Esta carta te otorga un punto de FE si tienes en tu reserva al menos 3 de comida y 3 de madera."
+              }
+            },
+            {
+              "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "type": "text",
+              "data": {
+                "text": "ABASTECIMIENTO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "632c106c-a0eb-403c-81ad-cac6e8b94feb",
       "amount": 1,
       "front_layers": [
         {
@@ -262,21 +358,52 @@
               "blueprint_panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
               "type": "text",
               "data": {
-                "text": "(Solo puedes tener un templo) "
+                "text": "(este punto de FE solo sirve en el turno en que ganas el combate)"
               }
             },
             {
               "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
               "type": "text",
               "data": {
-                "text": "Paga DOS recursos de cada tipo (2C+2M) y coloca esta carta en tu zona de juego. Esta carta te da un punto extra de FE."
+                "text": "Esta carta de otorga un punto de FE si atacas y derrotas al chamán de algun adversario."
               }
             },
             {
               "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
               "type": "text",
               "data": {
-                "text": "TEMPLO DEL SOL"
+                "text": "SACRILEGIO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "30ffdead-97e0-4630-910d-7702823398ec",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "464f0c90-4ba5-45f7-84d6-bc50abe77a85",
+          "panels": [
+            {
+              "blueprint_panel_id": "4445004f-6808-40e1-b3b1-a3ff213178d3",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b04aca7f-ad2e-4bc1-9658-c541189c3803",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Esta carta otorga un punto de FE si tienes al menos 4 subditos, 2 de comida y 2 de madera."
+              }
+            },
+            {
+              "blueprint_panel_id": "b3e9ab31-e715-4272-af64-a71f77e2b32e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "EQUILIBRIO"
               }
             }
           ]

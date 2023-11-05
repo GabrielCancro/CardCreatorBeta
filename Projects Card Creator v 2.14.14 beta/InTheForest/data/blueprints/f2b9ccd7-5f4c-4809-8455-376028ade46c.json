@@ -91,14 +91,14 @@
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0, 0, 0, 0",
+          "padding": "0, 0.2, 0, 0",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, -1.652457E-08",
+          "anchor_min_render": "0, 2.055056E-08",
           "anchor_max": "1, 0.1502694",
-          "anchor_max_render": "1, 0.1502695",
+          "anchor_max_render": "1, 0.1502694",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -112,7 +112,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "5",
+          "sort_mode": "2",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -127,19 +127,19 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.1502694",
-          "anchor_min_render": "0, 0.1502695",
+          "anchor_min_render": "0, 0.1502694",
           "anchor_max": "1, 0.8367988",
           "anchor_max_render": "1, 0.8367988",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/img.png",
+            "uri": "%PROJECT%/DefaultCardBack.png",
             "mask_uri": "",
             "fit_mode": "fitheight",
             "zoom": 1.0,
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "4",
+          "sort_mode": "3",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -170,7 +170,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "6",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -193,7 +193,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0",
+          "anchor_min_render": "0, 3.6991E-08",
           "anchor_max": "1, 0.2261209",
           "anchor_max_render": "1, 0.2261209",
           "type": "none",
@@ -213,12 +213,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "5.948846E-08, 0",
+          "anchor_min_render": "-7.398201E-08, 3.6991E-08",
           "anchor_max": "0.7807504, 1",
-          "anchor_max_render": "0.7807504, 0.2261209",
+          "anchor_max_render": "0.7807502, 0.2261209",
           "type": "none",
           "data": {},
-          "sort_mode": "13",
+          "sort_mode": "5",
           "split_mode": "vertical",
           "parent_panel_id": "3a9f4bbc-9a96-435a-832a-f19db97560ee"
         },
@@ -233,7 +233,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.7807504, 0",
-          "anchor_min_render": "0.7807504, 0",
+          "anchor_min_render": "0.7807504, 3.6991E-08",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 0.2261209",
           "type": "icon",
@@ -242,7 +242,7 @@
             "color_tint": "#424242FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "14",
+          "sort_mode": "6",
           "split_mode": "vertical",
           "parent_panel_id": "3a9f4bbc-9a96-435a-832a-f19db97560ee"
         },
@@ -277,12 +277,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "5.948846E-08, 0.2261209",
+          "anchor_min_render": "-7.398201E-08, 0.2261209",
           "anchor_max": "0.8489766, 1",
-          "anchor_max_render": "0.8489766, 1",
+          "anchor_max_render": "0.8489764, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "9",
+          "sort_mode": "7",
           "split_mode": "vertical",
           "parent_panel_id": "35dd9010-6d0a-4ceb-81c7-97f28d2871f0"
         },
@@ -313,7 +313,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "10",
+          "sort_mode": "9",
           "split_mode": "vertical",
           "parent_panel_id": "35dd9010-6d0a-4ceb-81c7-97f28d2871f0"
         }
@@ -350,7 +350,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "7",
+          "sort_mode": "8",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

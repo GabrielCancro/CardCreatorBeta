@@ -1,0 +1,28 @@
+{
+  "version": 2.12,
+  "cardset_id": "c7e0a069-1eaf-4026-bd26-88bd887b8c1a",
+  "name": "ENEMIGOS",
+  "blueprint_id": "9e38ca5e-a75f-4f23-8cf1-5b2bf7abda75",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "a12e7307-2e0f-4e80-abdd-57ce8a56ef17",
+      "amount": 10,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "4279e4f8-a482-4d35-8ee9-3aaffa46a554",
+          "panels": [
+            {
+              "blueprint_panel_id": "38eef186-625c-4728-9b37-e458665d588f",
+              "type": "text",
+              "data": {
+                "outline_length": 1.0,
+                "outline_color": "#000000FF"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

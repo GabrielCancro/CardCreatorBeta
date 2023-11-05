@@ -22,6 +22,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/aserra.png"
@@ -69,6 +70,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/tienda.png"
@@ -89,6 +91,7 @@
           "panels": [
             {
               "blueprint_panel_id": "eab80f91-4469-4e8b-ab4a-00d7e23ca27a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Nature/moon",
@@ -125,6 +128,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/trampa peces.png"
@@ -164,6 +168,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7a54dd92-1ff2-43f3-ae0a-700db8b116c9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "[5]->C"
@@ -171,6 +176,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/cocina.png"
@@ -178,6 +184,7 @@
             },
             {
               "blueprint_panel_id": "cd23b401-3bb4-4c2a-858a-c81087586832",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>COCINA</b>"
@@ -190,6 +197,7 @@
           "panels": [
             {
               "blueprint_panel_id": "64c9571e-40ca-4346-9ea9-f94949fcb60e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "M\nM\nC\nP"
@@ -208,6 +216,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7a54dd92-1ff2-43f3-ae0a-700db8b116c9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1 REROLL"
@@ -215,6 +224,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/mapas.png"
@@ -222,6 +232,7 @@
             },
             {
               "blueprint_panel_id": "cd23b401-3bb4-4c2a-858a-c81087586832",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "MESA EXPEDICIÓN"
@@ -234,6 +245,7 @@
           "panels": [
             {
               "blueprint_panel_id": "eab80f91-4469-4e8b-ab4a-00d7e23ca27a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/sunflower",
@@ -243,6 +255,7 @@
             },
             {
               "blueprint_panel_id": "64c9571e-40ca-4346-9ea9-f94949fcb60e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "M\nM\nP\nC\nC"
@@ -261,6 +274,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7a54dd92-1ff2-43f3-ae0a-700db8b116c9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "[5]->P"
@@ -268,6 +282,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/cantera.png"
@@ -275,6 +290,7 @@
             },
             {
               "blueprint_panel_id": "cd23b401-3bb4-4c2a-858a-c81087586832",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CANTERA"
@@ -287,6 +303,7 @@
           "panels": [
             {
               "blueprint_panel_id": "64c9571e-40ca-4346-9ea9-f94949fcb60e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "M\nM\nP\nP"
@@ -305,6 +322,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7a54dd92-1ff2-43f3-ae0a-700db8b116c9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "AHUYENTA"
@@ -312,6 +330,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/trampa clavos.png"
@@ -319,6 +338,7 @@
             },
             {
               "blueprint_panel_id": "cd23b401-3bb4-4c2a-858a-c81087586832",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "TRAMPA CLAVOS"
@@ -331,6 +351,7 @@
           "panels": [
             {
               "blueprint_panel_id": "eab80f91-4469-4e8b-ab4a-00d7e23ca27a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Nature/moon",
@@ -340,6 +361,7 @@
             },
             {
               "blueprint_panel_id": "64c9571e-40ca-4346-9ea9-f94949fcb60e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "M\nM"
@@ -358,6 +380,7 @@
           "panels": [
             {
               "blueprint_panel_id": "7a54dd92-1ff2-43f3-ae0a-700db8b116c9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "AL INICIAR <b>1PD</b>"
@@ -365,6 +388,7 @@
             },
             {
               "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/ballista.png"
@@ -372,6 +396,7 @@
             },
             {
               "blueprint_panel_id": "cd23b401-3bb4-4c2a-858a-c81087586832",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "BALLISTA"
@@ -384,6 +409,7 @@
           "panels": [
             {
               "blueprint_panel_id": "eab80f91-4469-4e8b-ab4a-00d7e23ca27a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Nature/moon",
@@ -393,9 +419,54 @@
             },
             {
               "blueprint_panel_id": "64c9571e-40ca-4346-9ea9-f94949fcb60e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "M\nM\nM\nP\nP\nC"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f57f626d-c1a8-4bdf-9390-bf96b6f5b0a1",
+      "amount": 9,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "caf455a4-7e1e-4f67-bbac-2448d9a8df32",
+          "panels": [
+            {
+              "blueprint_panel_id": "7a54dd92-1ff2-43f3-ae0a-700db8b116c9",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "3a46b7f2-90b3-47e4-a585-9ecc4fb83e10",
+              "type": "image",
+              "data": {
+                "tint": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "cd23b401-3bb4-4c2a-858a-c81087586832",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "614ebe27-35c6-42ef-8e09-83c65ab3f4d7",
+          "panels": [
+            {
+              "blueprint_panel_id": "64c9571e-40ca-4346-9ea9-f94949fcb60e",
+              "type": "text",
+              "data": {
+                "text": " "
               }
             }
           ]

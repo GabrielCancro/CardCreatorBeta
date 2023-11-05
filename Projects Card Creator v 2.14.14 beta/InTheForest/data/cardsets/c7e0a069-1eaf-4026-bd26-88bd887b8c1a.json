@@ -7,13 +7,14 @@
   "cards": [
     {
       "card_id": "a12e7307-2e0f-4e80-abdd-57ce8a56ef17",
-      "amount": 12,
+      "amount": 15,
       "front_layers": [
         {
           "blueprint_layer_id": "4279e4f8-a482-4d35-8ee9-3aaffa46a554",
           "panels": [
             {
               "blueprint_panel_id": "38eef186-625c-4728-9b37-e458665d588f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "outline_length": 1.0,

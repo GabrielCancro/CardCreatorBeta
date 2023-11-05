@@ -2,7 +2,7 @@
   "version": 2.12,
   "blueprint_id": "f2b9ccd7-5f4c-4809-8455-376028ade46c",
   "name": "Edificios",
-  "layout_size": "20, 20",
+  "layout_size": "30, 30",
   "layout_grid_size": "0.232, 0.232",
   "layout_grid_offset": "0, 0",
   "layout_grid_square": false,
@@ -47,7 +47,7 @@
     {
       "layer_id": "56070ee9-e6f5-4e14-b7f1-269529159a82",
       "name": "Layer 02 Background",
-      "padding": 0.05,
+      "padding": 0.0333333351,
       "spacing": 0.0,
       "panels": [
         {
@@ -82,7 +82,7 @@
     {
       "layer_id": "caf455a4-7e1e-4f67-bbac-2448d9a8df32",
       "name": "Layer 03 Content",
-      "padding": 0.1,
+      "padding": 0.0,
       "spacing": 0.0,
       "panels": [
         {
@@ -91,12 +91,12 @@
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0, 0.2, 0, 0",
+          "padding": "0, 0.2, 0, 0.03",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 2.055056E-08",
+          "anchor_min_render": "0, 1.84955E-08",
           "anchor_max": "1, 0.1502694",
           "anchor_max_render": "1, 0.1502694",
           "type": "text",
@@ -149,7 +149,7 @@
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0, 0.1, 0, 0.03",
+          "padding": "0, 0.1, 0, 0.04",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
@@ -313,7 +313,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "9",
+          "sort_mode": "8",
           "split_mode": "vertical",
           "parent_panel_id": "35dd9010-6d0a-4ceb-81c7-97f28d2871f0"
         }
@@ -350,7 +350,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "8",
+          "sort_mode": "9",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

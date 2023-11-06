@@ -71,7 +71,7 @@
             "fit_mode": "fitheight",
             "zoom": 1.0,
             "offset": "0, 0",
-            "tint": "#E1E7F2FF"
+            "tint": "#FFFFFFFF"
           },
           "sort_mode": "1",
           "split_mode": "none",

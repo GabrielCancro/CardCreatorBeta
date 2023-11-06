@@ -1,13 +1,32 @@
 {
   "version": 2.12,
   "cardset_id": "0cea938d-fa24-4457-8f59-19fa9b1fd2a6",
-  "name": "UNNAMED",
+  "name": "OTROS",
   "blueprint_id": "5989ffe2-d0db-4f0c-89ba-3afab61c0d19",
   "hint_order_index": 3,
   "cards": [
     {
       "card_id": "dbeae8e9-4982-4f5d-9ecc-bd10bc1cc308",
-      "amount": 14
+      "amount": 0
+    },
+    {
+      "card_id": "9a416478-740e-4d4b-9f58-084acdfd868f",
+      "amount": 6,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "35ae19ab-5477-4bec-b413-f22b2a4d4a82",
+          "panels": [
+            {
+              "blueprint_panel_id": "65766a7f-ed09-4c4f-8fc5-7395e702e147",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/soldier.png",
+                "fit_mode": "fitwidth"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }

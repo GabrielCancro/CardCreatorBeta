@@ -332,7 +332,7 @@
             "color_tint": "#424242FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "9",
+          "sort_mode": "8",
           "split_mode": "vertical",
           "parent_panel_id": "06cb9350-adf2-454b-9d61-95ddb91d07af"
         },
@@ -519,7 +519,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "8",
+          "sort_mode": "9",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

@@ -1,0 +1,337 @@
+{
+  "version": 2.12,
+  "cardset_id": "196a5cc1-5805-414b-b08e-bc48657aa26e",
+  "name": "EVENTOS",
+  "blueprint_id": "b42d35b6-b2cd-4c4e-90dd-b1b0ba8c45e5",
+  "hint_order_index": 5,
+  "cards": [
+    {
+      "card_id": "378ff519-3b11-476c-9a66-fb86a53dce26",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "La pesada noche cae y el frío es intenso como nunca. <i>Consume un recurso de madera o aplica 1PD a uno de tus soldados.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "NOCHE FRÍA Y OSCURA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1ed7516d-80a4-4c4a-bf4a-ba05c4c76c31",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "Mientras todos duermen las ratas y alimañas del bosques se cuelan en tu campamento. Destruye un recurso de comida."
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "EL HAMBRE DEL BOSQUE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5562c238-685e-473c-9ac6-1769aad2c554",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "Se escuchan gritos en el bosque, notas algo brillante en el suelo, puedes adentrarte a ver de que se trata. Si quieres puedes tomar un objeto del mazo y añadir una criatura al acecho.",
+                "image_scaling": 1.0
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "GRITOS Y GRUÑIDOS"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5f24bd2a-4521-4f0f-afd0-b775d52fc636",
+          "panels": [
+            {
+              "blueprint_panel_id": "9c50edcd-af08-42b9-9bd5-62400648d7fa",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "61aa10bd-81ca-4f49-bffd-c9e11cd36d14",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "La noche transcurre tranquila, las estrellas iluminan el cielo y una suave brisa trae esperanza."
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "PAZ EN EL BOSQUE"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5f24bd2a-4521-4f0f-afd0-b775d52fc636",
+          "panels": [
+            {
+              "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c9473066-5c20-4a65-8ad6-70c6a890ae00",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "Desde la densidad del bosque se siente el crujir de ramas pisoteadas, los observan desde la espesura."
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "OSCURIDAD"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5f24bd2a-4521-4f0f-afd0-b775d52fc636",
+          "panels": [
+            {
+              "blueprint_panel_id": "9c50edcd-af08-42b9-9bd5-62400648d7fa",
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/goblin-head",
+                "color_tint": "#000000FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5f1203d7-da6c-4a0d-acbc-c1dcd43f29e2",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "El silencio es absoluto, tanto lo es que ni los tipicos sonidos del bosque se oyen, inquietos pasan la noche junto al fuego."
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "TRANQUILIDAD PERTURBADORA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0370d525-3f82-4097-86f0-0ece3b0fd5b5",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "Una fuerte tormenta azota el campamento, el agua se filtra por todo el lugar. Si aún no construiste la TIENDA, uno de tus soldados se enferma."
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "AGUACERO"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5f24bd2a-4521-4f0f-afd0-b775d52fc636",
+          "panels": [
+            {
+              "blueprint_panel_id": "9c50edcd-af08-42b9-9bd5-62400648d7fa",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "19b11437-b206-42a9-93f4-48d68599c472",
+      "amount": 4,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "NO PODRÁS SANAR NINGÚN PD HASTA QUE QUITES ESTE ESTADO CON EL OBJETO \"MEDICINA\""
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "* ENFERMO"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5f24bd2a-4521-4f0f-afd0-b775d52fc636",
+          "panels": [
+            {
+              "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8c65950f-08e1-4dc6-ab74-9fc73ecd9fb7",
+      "amount": 4,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
+          "panels": [
+            {
+              "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "type": "text",
+              "data": {
+                "text": "EN EL PRÓXIMO TURNO NO PODRÁ ATACAR NI REALIZAR ACCIONES, SOLO PODRÁ QUITAR ESTA CARTA DE ESTADO."
+              }
+            },
+            {
+              "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "type": "text",
+              "data": {
+                "text": "* ATURDIDO"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5f24bd2a-4521-4f0f-afd0-b775d52fc636",
+          "panels": [
+            {
+              "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/flat-star",
+                "color_tint": "#FFFFFF00",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

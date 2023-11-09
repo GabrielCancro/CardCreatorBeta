@@ -18,6 +18,7 @@
           "panels": [
             {
               "blueprint_panel_id": "65766a7f-ed09-4c4f-8fc5-7395e702e147",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/soldier.png",

@@ -1,8 +1,8 @@
 {
   "version": 2.12,
-  "blueprint_id": "ae55dcbb-ce05-4df6-b8e1-700f8f1ea2cc",
-  "name": "ITEMS",
-  "layout_size": "30, 30",
+  "blueprint_id": "c6cdfe52-cc98-475a-a1f2-62c854378c25",
+  "name": "ESTADOS",
+  "layout_size": "40, 20",
   "layout_grid_size": "0.232, 0.232",
   "layout_grid_offset": "0, 0",
   "layout_grid_square": false,
@@ -10,13 +10,13 @@
   "main_panel_id": "00000000-0000-0000-0000-000000000000",
   "front_layers": [
     {
-      "layer_id": "2a162835-82b0-45b5-acf2-53361ff763e0",
+      "layer_id": "0a974b72-bc51-416d-b50f-8f663d385963",
       "name": "Layer 01 Border",
       "padding": 0.0,
       "spacing": 0.0,
       "panels": [
         {
-          "panel_id": "ce2915ef-81c5-4a9c-9a55-ef1169b31440",
+          "panel_id": "455d7de0-4e59-4fef-a36a-61b3f78b58a8",
           "name": "",
           "enabled": true,
           "locked": false,
@@ -45,13 +45,13 @@
       ]
     },
     {
-      "layer_id": "17abd204-a92b-489f-a682-fac88f821ec8",
+      "layer_id": "88e26c9b-f997-48a2-a444-1651911b2a72",
       "name": "Layer 02 Background",
-      "padding": 0.0333333351,
+      "padding": 0.05,
       "spacing": 0.0,
       "panels": [
         {
-          "panel_id": "5a922094-a115-46b1-b914-3fc0a3ef6941",
+          "panel_id": "063eda29-6c30-4bcf-9fb5-afe3b0d5d1b0",
           "name": "",
           "enabled": true,
           "locked": false,
@@ -80,32 +80,32 @@
       ]
     },
     {
-      "layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
+      "layer_id": "6d198154-9671-4bd8-b53f-0049374ab432",
       "name": "Layer 03 Content",
-      "padding": 0.0,
+      "padding": 0.05,
       "spacing": 0.0,
       "panels": [
         {
-          "panel_id": "4629fc1a-4ca6-452f-abc3-c22bb8d7b006",
+          "panel_id": "3508252e-a505-451a-ad30-e12a90ceaea4",
           "name": "",
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0, 0.05, 0.3, 0.03",
+          "padding": "0, 0.04, 0, 0.05",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0",
-          "anchor_max": "1, 0.129697",
-          "anchor_max_render": "1, 0.129697",
+          "anchor_min_render": "0, 4.779966E-08",
+          "anchor_max": "1, 0.6769918",
+          "anchor_max_render": "1, 0.6769919",
           "type": "text",
           "data": {
             "font_family": "Quicksand",
-            "font_preferred_size": 27,
+            "font_preferred_size": 26,
             "line_spacing": 1.0,
-            "text_anchor": "lowerright",
-            "text": "CONSUMIBLE",
+            "text_anchor": "middlecenter",
+            "text": "No podrás sanar ningún PD hasta que quites este estado con el objeto \"MEDICINA\"",
             "color": "#141414FF",
             "outline_length": 1.0,
             "outline_color": "#FFFFFF00",
@@ -117,7 +117,7 @@
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
         {
-          "panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
+          "panel_id": "3c942656-4ae5-4e6d-ab0c-f40615d3ff05",
           "name": "",
           "enabled": true,
           "locked": false,
@@ -126,44 +126,44 @@
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
-          "anchor_min": "0, 0.129697",
-          "anchor_min_render": "0, 0.129697",
-          "anchor_max": "1, 0.8581818",
-          "anchor_max_render": "1, 0.8581818",
+          "anchor_min": "0, 0.6769918",
+          "anchor_min_render": "0, 0.6769918",
+          "anchor_max": "1, 0.7051852",
+          "anchor_max_render": "1, 0.7051852",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/DefaultCardBack.png",
+            "uri": "",
             "mask_uri": "",
-            "fit_mode": "fitheight",
+            "fit_mode": "stretch",
             "zoom": 1.0,
             "offset": "0, 0",
-            "tint": "#FFFFFFFF"
+            "tint": "#646464FF"
           },
           "sort_mode": "3",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
         {
-          "panel_id": "ce8eea69-daae-4338-ae5c-4f683d6839ee",
+          "panel_id": "ea9c307c-0ed6-4629-a361-6a1ea2b2b6fe",
           "name": "",
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0.3, 0.05, -0.2, 0.05",
+          "padding": "0, 0.03, 0, 0.03",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
-          "anchor_min": "0, 0.8581818",
-          "anchor_min_render": "0, 0.8581818",
+          "anchor_min": "0, 0.7051852",
+          "anchor_min_render": "0, 0.7051852",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 1",
           "type": "text",
           "data": {
-            "font_family": "",
+            "font_family": "Nimbus San L",
             "font_preferred_size": 45,
             "line_spacing": 1.0,
             "text_anchor": "middlecenter",
-            "text": "<b>NOMBRE</b>",
+            "text": "ENFERMO",
             "color": "#333333FF",
             "outline_length": 1.0,
             "outline_color": "#FFFFFF00",
@@ -175,96 +175,17 @@
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
       ]
-    },
-    {
-      "layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-      "name": "",
-      "padding": 0.0,
-      "spacing": 0.0,
-      "panels": [
-        {
-          "panel_id": "f69fa13b-345c-4fe7-a05a-0df097c57d6b",
-          "name": "",
-          "enabled": true,
-          "locked": false,
-          "rotation": 0,
-          "padding": "0, 0, 0, 0",
-          "material_name": "Blank",
-          "material_selection": 0,
-          "material_tint": "#00000000",
-          "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0",
-          "anchor_max": "1, 0.1357576",
-          "anchor_max_render": "1, 0.1357576",
-          "type": "none",
-          "data": {},
-          "sort_mode": "5",
-          "split_mode": "horizontal",
-          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-          "panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-          "name": "",
-          "enabled": true,
-          "locked": false,
-          "rotation": 0,
-          "padding": "0, 0.05, 0, 0.05",
-          "material_name": "Blank",
-          "material_selection": 0,
-          "material_tint": "#00000000",
-          "anchor_min": "0, 0.1357576",
-          "anchor_min_render": "0, 0.1357576",
-          "anchor_max": "1, 0.4872727",
-          "anchor_max_render": "1, 0.4872727",
-          "type": "text",
-          "data": {
-            "font_family": "",
-            "font_preferred_size": 30,
-            "line_spacing": 0.8,
-            "text_anchor": "lowerleft",
-            "text": "evitas pagar el coste de una expedición y puedes volver a tirar uno de los dados (el valor anterior no tendrá efecto)",
-            "color": "#141414FF",
-            "outline_length": 10.0,
-            "outline_color": "#FFFFFFFF",
-            "image_scaling": 1.0,
-            "image_offset": "0, 0"
-          },
-          "sort_mode": "6",
-          "split_mode": "horizontal",
-          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-          "panel_id": "49cc709c-c3c5-4135-9a31-72bc53c7ec31",
-          "name": "",
-          "enabled": true,
-          "locked": false,
-          "rotation": 0,
-          "padding": "0, 0, 0, 0",
-          "material_name": "Blank",
-          "material_selection": 0,
-          "material_tint": "#00000000",
-          "anchor_min": "0, 0.4872727",
-          "anchor_min_render": "0, 0.4872727",
-          "anchor_max": "1, 1",
-          "anchor_max_render": "1, 1",
-          "type": "none",
-          "data": {},
-          "sort_mode": "8",
-          "split_mode": "horizontal",
-          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
-        }
-      ]
     }
   ],
   "back_layers": [
     {
-      "layer_id": "78714d6f-996a-4466-954f-3d9d324ae334",
+      "layer_id": "b68c2fc1-7a99-4636-b78b-6c4ac8ef0fb4",
       "name": "Layer 01 Back",
       "padding": 2.638507E-05,
       "spacing": 0.025,
       "panels": [
         {
-          "panel_id": "933955ec-e5c0-4ed0-bab5-9efdefb26c56",
+          "panel_id": "bd0255bf-8e62-4e9c-b034-10c951d9650b",
           "name": "",
           "enabled": true,
           "locked": false,
@@ -279,14 +200,14 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/DefaultCardBack.png",
+            "uri": "%PROJECT%/04877da0-dfb7-4ec0-9dbb-54e1d1af00b9.png",
             "mask_uri": "",
             "fit_mode": "fit",
             "zoom": 1.0,
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "7",
+          "sort_mode": "5",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

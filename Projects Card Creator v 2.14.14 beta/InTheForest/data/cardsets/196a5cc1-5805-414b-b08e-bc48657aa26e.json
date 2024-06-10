@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "La pesada noche cae y el frío es intenso como nunca. <i>Consume un recurso de madera o aplica 1PD a uno de tus soldados.</i>"
@@ -21,6 +22,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "NOCHE FRÍA Y OSCURA"
@@ -39,6 +41,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Mientras todos duermen las ratas y alimañas del bosques se cuelan en tu campamento. Destruye un recurso de comida."
@@ -46,6 +49,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "EL HAMBRE DEL BOSQUE"
@@ -64,6 +68,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Se escuchan gritos en el bosque, notas algo brillante en el suelo, puedes adentrarte a ver de que se trata. Si quieres puedes tomar un objeto del mazo y añadir una criatura al acecho.",
@@ -72,6 +77,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "GRITOS Y GRUÑIDOS"
@@ -84,6 +90,7 @@
           "panels": [
             {
               "blueprint_panel_id": "9c50edcd-af08-42b9-9bd5-62400648d7fa",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",
@@ -93,6 +100,7 @@
             },
             {
               "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",
@@ -113,6 +121,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "La noche transcurre tranquila, las estrellas iluminan el cielo y una suave brisa trae esperanza."
@@ -120,6 +129,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "PAZ EN EL BOSQUE"
@@ -132,6 +142,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",
@@ -152,6 +163,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Desde la densidad del bosque se siente el crujir de ramas pisoteadas, los observan desde la espesura."
@@ -159,6 +171,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "OSCURIDAD"
@@ -171,6 +184,7 @@
           "panels": [
             {
               "blueprint_panel_id": "9c50edcd-af08-42b9-9bd5-62400648d7fa",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Body&Actions/goblin-head",
@@ -191,6 +205,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "El silencio es absoluto, tanto lo es que ni los tipicos sonidos del bosque se oyen, inquietos pasan la noche junto al fuego."
@@ -198,6 +213,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "TRANQUILIDAD PERTURBADORA"
@@ -216,6 +232,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Una fuerte tormenta azota el campamento, el agua se filtra por todo el lugar. Si aún no construiste la TIENDA, uno de tus soldados se enferma."
@@ -223,6 +240,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "AGUACERO"
@@ -235,6 +253,7 @@
           "panels": [
             {
               "blueprint_panel_id": "9c50edcd-af08-42b9-9bd5-62400648d7fa",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",
@@ -244,6 +263,7 @@
             },
             {
               "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",
@@ -264,6 +284,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "NO PODRÁS SANAR NINGÚN PD HASTA QUE QUITES ESTE ESTADO CON EL OBJETO \"MEDICINA\""
@@ -271,6 +292,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "* ENFERMO"
@@ -283,6 +305,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",
@@ -303,6 +326,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d040edf9-9dad-4770-bd4d-195300d43177",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "EN EL PRÓXIMO TURNO NO PODRÁ ATACAR NI REALIZAR ACCIONES, SOLO PODRÁ QUITAR ESTA CARTA DE ESTADO."
@@ -310,6 +334,7 @@
             },
             {
               "blueprint_panel_id": "bf201742-6f19-4dfc-8009-696419306673",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "* ATURDIDO"
@@ -322,6 +347,7 @@
           "panels": [
             {
               "blueprint_panel_id": "d4eaebb6-afa4-4a25-b66d-ea14ba494e7a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Abstract/flat-star",

@@ -13,11 +13,24 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
+              "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
+              "type": "text",
+              "data": {
+                "text": "CONSUMIBLE"
+              }
+            },
+            {
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/RacionDeViaje.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "type": "text",
+              "data": {
+                "text": "Al obtener este objeto, colocale 3 fichas de alimento del pozo, puedes usarlas para alimentar a tus soldados cuando sea el momento. Al agotarse, retira esta carta del juego."
               }
             },
             {
@@ -26,19 +39,6 @@
               "type": "text",
               "data": {
                 "text": "<b>RACION DE VIAJE</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Usalo durante la noche para alimentar la tropa en lugar de consumir comida."
               }
             }
           ]
@@ -53,11 +53,24 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
+              "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
+              "type": "text",
+              "data": {
+                "text": "CONSUMIBLE"
+              }
+            },
+            {
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/hierba.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta hierba medicinal para recuperar 2PD a un soldado, tambien quita el estado de debilidad o enfermedad."
               }
             },
             {
@@ -66,19 +79,6 @@
               "type": "text",
               "data": {
                 "text": "<b>MEDICINA</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Usala en el descanso para restaurar 1PD a un soldado."
               }
             }
           ]
@@ -93,7 +93,7 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "4629fc1a-4ca6-452f-abc3-c22bb8d7b006",
+              "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -101,12 +101,14 @@
               }
             },
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
-              "type": "image",
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "type": "text",
               "data": {
-                "uri": "%PROJECT%/Items/espadon.png",
-                "offset": "0, 0.1"
+                "text": "EQUIPABLE"
               }
             },
             {
@@ -115,19 +117,6 @@
               "type": "text",
               "data": {
                 "text": "<b>ESPADA ELFICA</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Si en la tirada de ataque obtienes dos números iguales, infliges 1PD extra (aunque no superes la defensa el enemigo)"
               }
             }
           ]
@@ -142,7 +131,7 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "4629fc1a-4ca6-452f-abc3-c22bb8d7b006",
+              "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -150,12 +139,14 @@
               }
             },
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
-              "type": "image",
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "type": "text",
               "data": {
-                "uri": "%PROJECT%/Items/armadura_coraza.png",
-                "offset": "0, 0.05"
+                "text": "EQUIPABLE"
               }
             },
             {
@@ -164,19 +155,6 @@
               "type": "text",
               "data": {
                 "text": "<b>CORAZA</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Cuando recibas mas de 1PD, restas 1PD al ataque recibido."
               }
             }
           ]
@@ -191,33 +169,11 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Items/mochila.png",
-                "offset": "0, 0.1"
-              }
-            },
-            {
               "blueprint_panel_id": "ce8eea69-daae-4338-ae5c-4f683d6839ee",
               "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>MOCHILA DE EXPLORACIÓN</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Al usarla, evitas pagar el coste de una expedición y puedes rerollear un dado, incluso si es un <b>[1]</b>"
               }
             }
           ]
@@ -232,33 +188,11 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Items/firework.jpg",
-                "offset": "0, 0.14"
-              }
-            },
-            {
               "blueprint_panel_id": "ce8eea69-daae-4338-ae5c-4f683d6839ee",
               "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>FUEGOS ARTIFICIALES</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Al usarlo, aterrorizas a una criatura que esté en la zona de acecho (quitala y devuélvela al pozo de criaturas)"
               }
             }
           ]
@@ -273,7 +207,7 @@
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
-              "blueprint_panel_id": "4629fc1a-4ca6-452f-abc3-c22bb8d7b006",
+              "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -281,13 +215,14 @@
               }
             },
             {
-              "blueprint_panel_id": "1eafd437-1596-437f-ac87-2797db33d36a",
-              "rotation": 0,
-              "type": "image",
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "type": "text",
               "data": {
-                "uri": "%PROJECT%/Items/arco.png",
-                "zoom": 0.8,
-                "offset": "0, 0.07"
+                "text": "EQUIPABLE"
               }
             },
             {
@@ -296,19 +231,6 @@
               "type": "text",
               "data": {
                 "text": "<b>ARCO LARGO</b>"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "e4a8d3f5-c578-46b0-8dd7-1c35df47f411",
-          "panels": [
-            {
-              "blueprint_panel_id": "e69f86cf-7e9a-4203-a9d7-222a32bdcecd",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Puedes atacar a cualquier criatura sin importar en que frente estés luchando"
               }
             }
           ]

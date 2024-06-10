@@ -2,7 +2,7 @@
   "version": 2.12,
   "blueprint_id": "b42d35b6-b2cd-4c4e-90dd-b1b0ba8c45e5",
   "name": "EVENTOS",
-  "layout_size": "60, 30",
+  "layout_size": "65, 43",
   "layout_grid_size": "0.232, 0.232",
   "layout_grid_offset": "0, 0",
   "layout_grid_square": false,
@@ -47,7 +47,7 @@
     {
       "layer_id": "7936de56-8bb1-4ff8-b5b0-de127fa1cd7b",
       "name": "Layer 02 Background",
-      "padding": 0.06666667,
+      "padding": 0.0697674453,
       "spacing": 0.0,
       "panels": [
         {
@@ -82,7 +82,7 @@
     {
       "layer_id": "f80313ea-b91a-449c-a2a0-8a41a1612693",
       "name": "Layer 03 Content",
-      "padding": 0.06666667,
+      "padding": 0.0697674453,
       "spacing": 0.0,
       "panels": [
         {
@@ -91,14 +91,14 @@
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0, 0.04, 0, 0.05",
+          "padding": "0, 0.04, 0.15, 0.05",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 4.865323E-08",
+          "anchor_min_render": "0, 0",
           "anchor_max": "1, 0.7247919",
-          "anchor_max_render": "1, 0.7247919",
+          "anchor_max_render": "1, 0.7247918",
           "type": "text",
           "data": {
             "font_family": "Quicksand",
@@ -112,7 +112,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "4",
+          "sort_mode": "2",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -127,7 +127,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.7247919",
-          "anchor_min_render": "0, 0.7247919",
+          "anchor_min_render": "0, 0.7247918",
           "anchor_max": "1, 0.7375461",
           "anchor_max_render": "1, 0.7375461",
           "type": "image",
@@ -170,7 +170,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "5",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -193,7 +193,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0",
+          "anchor_min_render": "0, -3.432127E-08",
           "anchor_max": "1, 0.215795",
           "anchor_max_render": "1, 0.215795",
           "type": "none",
@@ -213,12 +213,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "-4.540968E-08, 0",
+          "anchor_min_render": "-4.540968E-08, -3.432127E-08",
           "anchor_max": "0.7827542, 1",
           "anchor_max_render": "0.7827542, 0.215795",
           "type": "none",
           "data": {},
-          "sort_mode": "11",
+          "sort_mode": "5",
           "split_mode": "vertical",
           "parent_panel_id": "25a79214-cdd3-4e0a-93b5-de415b6b1628"
         },
@@ -233,7 +233,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.7827542, 0",
-          "anchor_min_render": "0.7827542, 0",
+          "anchor_min_render": "0.7827542, -3.432127E-08",
           "anchor_max": "0.8824492, 1",
           "anchor_max_render": "0.8824492, 0.215795",
           "type": "icon",
@@ -242,7 +242,7 @@
             "color_tint": "#000000FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "10",
+          "sort_mode": "6",
           "split_mode": "vertical",
           "parent_panel_id": "25a79214-cdd3-4e0a-93b5-de415b6b1628"
         },
@@ -257,7 +257,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.8824492, 0",
-          "anchor_min_render": "0.8824492, 0",
+          "anchor_min_render": "0.8824492, -3.432127E-08",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 0.215795",
           "type": "icon",
@@ -266,7 +266,7 @@
             "color_tint": "#000000FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "12",
+          "sort_mode": "8",
           "split_mode": "vertical",
           "parent_panel_id": "25a79214-cdd3-4e0a-93b5-de415b6b1628"
         },
@@ -286,7 +286,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "8",
+          "sort_mode": "9",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -323,7 +323,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "6",
+          "sort_mode": "7",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

@@ -7,13 +7,14 @@
   "cards": [
     {
       "card_id": "c1c7c85c-b68e-4997-b6eb-cb53ae2cdcc3",
-      "amount": 3,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
               "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CONSUMIBLE"
@@ -21,6 +22,7 @@
             },
             {
               "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/RacionDeViaje.png"
@@ -28,6 +30,8 @@
             },
             {
               "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "rotation": 0,
+              "padding": "0, 0.05, 0.1, 0",
               "type": "text",
               "data": {
                 "text": "Al obtener este objeto, colocale 3 fichas de alimento del pozo, puedes usarlas para alimentar a tus soldados cuando sea el momento. Al agotarse, retira esta carta del juego."
@@ -54,6 +58,7 @@
           "panels": [
             {
               "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CONSUMIBLE"
@@ -61,6 +66,7 @@
             },
             {
               "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Items/hierba.png"
@@ -68,6 +74,7 @@
             },
             {
               "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Utiliza esta hierba medicinal para recuperar 2PD a un soldado, tambien quita el estado de debilidad o enfermedad."
@@ -102,13 +109,18 @@
             },
             {
               "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
-              "rotation": 0
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/espadon.png"
+              }
             },
             {
               "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "EQUIPABLE"
+                "text": "Si sacas dos numeros iguales en tus dados durante un ataque, infliges 1PD extra, incluso si fallas el ataque."
               }
             },
             {
@@ -140,13 +152,18 @@
             },
             {
               "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
-              "rotation": 0
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/armadura_coraza.png"
+              }
             },
             {
               "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "EQUIPABLE"
+                "text": "Cada vez que recibas daño a causa de un dado con el numero 1, esta armadura absorbe dicho daño, cuando haya absorbido 3PD este objeto se destruye y retira del juego."
               }
             },
             {
@@ -163,11 +180,33 @@
     },
     {
       "card_id": "c9c3402e-2e27-4e17-952d-de2f436a72bd",
-      "amount": 3,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
+            {
+              "blueprint_panel_id": "58a5158e-fe87-4e65-b20c-9d86d14a080b",
+              "type": "text",
+              "data": {
+                "text": "CONSUMIBLE"
+              }
+            },
+            {
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/mochila.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "padding": "0, 0.05, 0.1, 0",
+              "type": "text",
+              "data": {
+                "text": "Usa esta mochila durante una expedición para realizar dos tiradas en la tabla en lugar de una. Podrás obtener mas beneficios, pero tambien llamar la atención de mas criaturas."
+              }
+            },
             {
               "blueprint_panel_id": "ce8eea69-daae-4338-ae5c-4f683d6839ee",
               "rotation": 0,
@@ -182,17 +221,31 @@
     },
     {
       "card_id": "42a1c966-4690-4446-bdae-522b9d06f7ef",
-      "amount": 1,
+      "amount": 2,
       "front_layers": [
         {
           "blueprint_layer_id": "8b1e5f4a-16c2-418e-90fb-bcfbf3420e5a",
           "panels": [
             {
+              "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/firework.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "type": "text",
+              "data": {
+                "text": "Realiza una tirada de dos dados, por cada dado mayor o igual a [3], retira una criatura del area de acecho y barajala denuevo en el mazo de criaturas."
+              }
+            },
+            {
               "blueprint_panel_id": "ce8eea69-daae-4338-ae5c-4f683d6839ee",
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>FUEGOS ARTIFICIALES</b>"
+                "text": "<b>PIROTECNIA</b>"
               }
             }
           ]
@@ -216,13 +269,18 @@
             },
             {
               "blueprint_panel_id": "80f488c5-9a54-40c8-a2ba-b01692ab18c5",
-              "rotation": 0
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Items/arco.png"
+              }
             },
             {
               "blueprint_panel_id": "6a6b173f-6d36-4f78-80e5-4bbccd93d705",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "EQUIPABLE"
+                "text": "Esta arma te permite gastar DOS acciones de ataque para realizar un ataque a distancia, realiza una tirada normal de ataque pero ignora el daño recibido."
               }
             },
             {

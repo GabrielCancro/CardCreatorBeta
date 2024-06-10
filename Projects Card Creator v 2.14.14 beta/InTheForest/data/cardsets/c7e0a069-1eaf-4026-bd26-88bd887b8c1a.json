@@ -14,7 +14,6 @@
           "panels": [
             {
               "blueprint_panel_id": "38eef186-625c-4728-9b37-e458665d588f",
-              "rotation": 0,
               "type": "text",
               "data": {
                 "outline_length": 1.0,

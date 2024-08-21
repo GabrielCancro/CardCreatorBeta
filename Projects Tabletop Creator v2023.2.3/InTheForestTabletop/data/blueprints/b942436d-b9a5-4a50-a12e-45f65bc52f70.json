@@ -1,0 +1,147 @@
+{
+  "json_version": 3,
+  "name": "blueprint_001",
+  "type": "card",
+  "layout_size_mm": "65, 43",
+  "main_panel_name": "titulo",
+  "hint_order_index": 0,
+  "front_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "titulo",
+          "data":
+          {
+            "layout_position": "31.36032, 36.02049",
+            "layout_size": "54.89241, 9.525759",
+            "panel_type": "text",
+            "value": "<b><align=\"left\">Nombre</align></b>",
+            "text_font": "Calibri",
+            "text_size": "7",
+            "layout_constraint_v": "top",
+            "layout_constraint_h": "scale",
+            "color": "#454545FF"
+          }
+        },
+        {
+          "name": "tipo",
+          "data":
+          {
+            "layout_position": "17.10805, 31.40833",
+            "layout_size": "29.93982, 6.811534",
+            "panel_type": "text",
+            "value": "<align=\"center\">EQUIPABLE</align>",
+            "text_size": "3.5",
+            "layout_constraint_v": "bottom",
+            "layout_constraint_h": "scale",
+            "text_alignment_h": "right",
+            "text_font": "Calibri",
+            "color": "#565454FF",
+            "text_bold": "True"
+          }
+        },
+        {
+          "name": "descripcion",
+          "data":
+          {
+            "layout_position": "46.63438, 17.86581",
+            "layout_size": "30.34592, 30.52649",
+            "panel_type": "text",
+            "value": "<align=\"justified\">Descripcion del item, detalles y forma de utilizarlo, ventajas y algun otro tipo de informacion interesante</align>",
+            "text_size": "4",
+            "layout_constraint_v": "bottom",
+            "layout_constraint_h": "scale",
+            "text_font": "Calibri",
+            "color": "#444444FF",
+            "text_line_spacing": "-30"
+          }
+        },
+        {
+          "name": "imagen",
+          "data":
+          {
+            "layout_position": "16.63982, 16.28609",
+            "layout_size": "25.78394, 25.30576",
+            "panel_type": "image",
+            "value": "04877da0-dfb7-4ec0-9dbb-54e1d1af00b9.png",
+            "procedural_radius": "5",
+            "color": "#FFFFFFFF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        },
+        {
+          "name": "color",
+          "data":
+          {
+            "layout_position": "32.78727, 21.61517",
+            "layout_size": "60.79426, 38.86938",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "4",
+            "color": "#FFFFFFFF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "border",
+          "data":
+          {
+            "layout_position": "32.74753, 21.50214",
+            "layout_size": "64.64841, 42.15762",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "5",
+            "color": "#75CAE6FF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "panel_editable": "False"
+          }
+        }
+      ]
+    }
+  ],
+  "back_layers":
+  [
+    {
+      "name": "fixed_back",
+      "panels":
+      [
+        {
+          "name": "back_logo",
+          "data":
+          {
+            "layout_position": "31.15, 45.24",
+            "layout_size": "42.1, 45.23",
+            "panel_type": "image",
+            "color": "#FFFFFFFF",
+            "value": "TC/IconWhite",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "back_color",
+          "data":
+          {
+            "layout_position": "31.75, 44.45",
+            "layout_size": "63.5, 88.9",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "color": "#76CAE7FF",
+            "panel_editable": "False",
+            "procedural_radius": "5",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale"
+          }
+        }
+      ]
+    }
+  ]
+}

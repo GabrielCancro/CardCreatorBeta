@@ -1,14 +1,14 @@
 {
   "json_version": 3,
   "name": "set_001",
-  "blueprint_name": "blueprint_001",
+  "blueprint_name": "BP_Item",
   "hint_order_index": 0,
   "zoom": 0,
   "items":
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1724248921,
+      "last_modification_date_unix": 1724464157,
       "details":
       [
         {
@@ -22,8 +22,7 @@
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Coloca 3 fichas de alimento del pozo en este item, puedes alimentar a tus soldados con ellas. \nAl agotarse, retira esta carta del juego.</align>",
-            "text_size": "3.5"
+            "value": "<align=\"left\">Coloca 3 fichas de alimento del pozo en este item, puedes alimentar a tus soldados con ellas. \nAl agotarse, retira esta carta del juego.</align><align=\"justified\">"
           }
         },
         {
@@ -44,7 +43,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724250548,
+      "last_modification_date_unix": 1724464163,
       "details":
       [
         {
@@ -58,7 +57,7 @@
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Utiliza esta hierba medicinal para recuperar 2PD a un soldado, tambien quita el estado de debilidad o enfermedad."
+            "value": "<align=\"left\">Utiliza esta hierba medicinal para recuperar 2PD a un soldado, tambien quita el estado de debilidad o enfermedad.</align><align=\"justified\">"
           }
         },
         {
@@ -79,14 +78,14 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724250663,
+      "last_modification_date_unix": 1724464170,
       "details":
       [
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Si sacas dos numeros iguales en tus dados durante un ataque, infliges 1PD extra, incluso si fallas el ataque.</align>"
+            "value": "<align=\"left\">Si sacas dos numeros iguales en tus dados durante un ataque, infliges 1PD extra, incluso si fallas el ataque.</align><align=\"justified\">"
           }
         },
         {
@@ -107,7 +106,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724251000,
+      "last_modification_date_unix": 1724464176,
       "details":
       [
         {
@@ -128,21 +127,21 @@
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Al recibir daño a causa de un dado con el numero [1], absorbe dicho daño, cuando haya absorbido 4PD este objeto se destruye y retira del juego.</align>"
+            "value": "<align=\"left\">Al recibir daño a causa de un dado con el numero [1], absorbe dicho daño, cuando haya absorbido 4PD este objeto se destruye y retira del juego.</align><align=\"justified\">"
           }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724251048,
+      "last_modification_date_unix": 1724464189,
       "details":
       [
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Permite gastar DOS acciones de ataque para realizar un ataque a distancia, realiza una tirada normal de ataque pero ignora el daño recibido.</align>"
+            "value": "<align=\"left\">Permite gastar DOS acciones de ataque para realizar un ataque a distancia, realiza una tirada normal de ataque pero ignora el daño recibido.</align><align=\"justified\">"
           }
         },
         {
@@ -163,14 +162,14 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724251155,
+      "last_modification_date_unix": 1724464284,
       "details":
       [
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Realiza una tirada de dos dados, por cada dado mayor o igual a [3], retira una criatura del area de acecho y barajala de nuevo en su mazo.</align>"
+            "value": "<align=\"left\">Realiza una tirada de dos dados, por cada dado mayor o igual a [3], retira una criatura del area de acecho y barajala de nuevo en su mazo.</align><align=\"justified\">"
           }
         },
         {
@@ -184,7 +183,7 @@
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">UN USO</align>"
+            "value": "<align=\"center\">CONSUMIBLE</align>"
           }
         },
         {
@@ -198,14 +197,14 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724251238,
+      "last_modification_date_unix": 1724464295,
       "details":
       [
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"justified\">Usa esta mochila durante una expedición para realizar dos tiradas en la tabla en lugar de una.</align>"
+            "value": "<align=\"left\">Usa esta mochila durante una expedición para realizar dos tiradas en la tabla en lugar de una.</align><align=\"justified\">"
           }
         },
         {
@@ -213,14 +212,14 @@
           "data":
           {
             "value": "Mochila de Exploracion",
-            "text_size": "5.7"
+            "text_size": "4.6"
           }
         },
         {
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">UN USO</align>"
+            "value": "<align=\"center\">CONSUMIBLE</align>"
           }
         },
         {

@@ -1,10 +1,10 @@
 {
   "json_version": 3,
-  "name": "BP_Item",
+  "name": "BP_Event",
   "type": "card",
-  "layout_size_mm": "50, 30",
-  "main_panel_name": "titulo",
-  "hint_order_index": 0,
+  "layout_size_mm": "40, 60",
+  "main_panel_name": "tx_title",
+  "hint_order_index": 1,
   "front_layers":
   [
     {
@@ -12,72 +12,100 @@
       "panels":
       [
         {
-          "name": "titulo",
+          "name": "tx_title",
           "data":
           {
-            "layout_position": "25.80845, 25.78541",
-            "layout_size": "45.60152, 4.767014",
+            "layout_position": "20.29927, 52.44187",
+            "layout_size": "35.23742, 11.34505",
             "panel_type": "text",
-            "value": "<b><align=\"left\">Nombre</align></b>",
+            "value": "Nombre Del Evento",
             "text_font": "Calibri",
+            "layout_constraint_v": "top",
+            "layout_constraint_h": "scale",
+            "color": "#454545FF",
+            "text_line_spacing": "-39"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "layout_position": "20.06754, 27.62036",
+            "layout_size": "35.46026, 36.86417",
+            "panel_type": "text",
+            "value": "<align=\"center\">Descripcion del evento y secuencia de desarrollo, como tambien que sucede y tiradas si se requieren</align>",
+            "text_size": "3.5",
+            "layout_constraint_v": "bottom",
+            "layout_constraint_h": "scale",
+            "text_alignment_h": "right",
+            "text_font": "Calibri",
+            "color": "#444444FF",
+            "text_line_spacing": "-20"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "layout_position": "16.97527, 4.808643",
+            "layout_size": "29.74557, 6.037059",
+            "panel_type": "text",
+            "value": "ESPECIAL",
+            "text_font": "Calibri",
+            "text_size": "4",
             "layout_constraint_v": "top",
             "layout_constraint_h": "scale",
             "color": "#454545FF"
           }
         },
         {
-          "name": "tipo",
+          "name": "icon",
           "data":
           {
-            "layout_position": "12.31154, 22.57605",
-            "layout_size": "18.83608, 4.534689",
-            "panel_type": "text",
-            "value": "<align=\"center\">EQUIPABLE</align>",
-            "text_size": "2.5",
-            "layout_constraint_v": "bottom",
+            "layout_position": "33.83284, 4.900022",
+            "layout_size": "8.723873, 6.308429",
+            "panel_type": "icon",
+            "value": "Creature/imp-laugh",
             "layout_constraint_h": "scale",
-            "text_alignment_h": "right",
-            "text_font": "Calibri",
-            "color": "#565454FF",
-            "text_bold": "True"
+            "layout_constraint_v": "scale",
+            "color": "#353333FF"
           }
         },
         {
-          "name": "descripcion",
+          "name": "bg_special",
           "data":
           {
-            "layout_position": "35.90832, 12.38947",
-            "layout_size": "24.75628, 22.89739",
-            "panel_type": "text",
-            "value": "<align=\"left\">Descripcion del item, detalles y forma de utilizarlo, ventajas y algun otro tipo de informacion interesante</align><align=\"justified\">",
-            "text_size": "2.7",
-            "layout_constraint_v": "bottom",
-            "layout_constraint_h": "scale",
-            "text_font": "Calibri",
-            "color": "#444444FF",
-            "text_line_spacing": "-22"
-          }
-        },
-        {
-          "name": "imagen",
-          "data":
-          {
-            "layout_position": "12.37206, 11.90502",
-            "layout_size": "19.36341, 18.96076",
-            "panel_type": "image",
-            "value": "04877da0-dfb7-4ec0-9dbb-54e1d1af00b9.png",
-            "procedural_radius": "5",
-            "color": "#FFFFFFFF",
+            "layout_position": "20.07302, 5.270889",
+            "layout_size": "37.38898, 7.956509",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "4",
+            "color": "#EDEDEDFF",
             "layout_constraint_h": "scale",
             "layout_constraint_v": "scale"
+          }
+        },
+        {
+          "name": "color_001",
+          "data":
+          {
+            "layout_position": "20.07302, 52.37922",
+            "layout_size": "37.38898, 13.14759",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "4",
+            "color": "#EDEDEDFF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "panel_editable": "False"
           }
         },
         {
           "name": "color",
           "data":
           {
-            "layout_position": "25.19594, 15.04357",
-            "layout_size": "47.57552, 27.69011",
+            "layout_position": "20.07302, 30.05641",
+            "layout_size": "37.38898, 57.52756",
             "panel_type": "procedural",
             "value": "Placeholder",
             "procedural_radius": "4",
@@ -91,8 +119,8 @@
           "name": "border",
           "data":
           {
-            "layout_position": "25.30727, 15.11938",
-            "layout_size": "49.76789, 29.3921",
+            "layout_position": "20.00274, 30.07006",
+            "layout_size": "40.00549, 60",
             "panel_type": "procedural",
             "value": "Placeholder",
             "procedural_radius": "5",

@@ -1,0 +1,115 @@
+{
+  "json_version": 3,
+  "name": "set_002",
+  "blueprint_name": "BP_Event",
+  "hint_order_index": 1,
+  "zoom": 0.4749788,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724464481,
+      "details":
+      [
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Noche Fría y Oscura"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">La pesada noche cae y el frío es intenso como nunca. Consume un recurso de madera o aplica 1PD a uno de tus soldados.</align>"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+2 ACECHO"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724464610,
+      "details":
+      [
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+1 ACECHO"
+          }
+        },
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "El Hambre del Bosque"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">Mientras todos duermen las ratas y alimañas del bosques se cuelan en tu campamento. \nDestruye dos recursos de comida.</align>"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724465114,
+      "details":
+      [
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Gritos y Gruñidos"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">Se escuchan gritos en el bosque, notas algo brillante en el suelo, puedes adentrarte a ver de que se trata. Si quieres puedes tomar un objeto del mazo y añadir una criatura al acecho.</align>"
+          }
+        },
+        {
+          "name": "icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "border",
+          "data":
+          {
+            "visible": "True"
+          }
+        },
+        {
+          "name": "bg_special",
+          "data":
+          {
+            "visible": "False"
+          }
+        }
+      ]
+    }
+  ]
+}

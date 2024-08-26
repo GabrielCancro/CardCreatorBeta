@@ -230,6 +230,62 @@
           }
         }
       ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724684335,
+      "details":
+      [
+        {
+          "name": "titulo",
+          "data":
+          {
+            "value": "<b><align=\"left\">Enfermo</align></b>"
+          }
+        },
+        {
+          "name": "tipo",
+          "data":
+          {
+            "value": "<align=\"left\">ESTADO</align>"
+          }
+        },
+        {
+          "name": "descripcion",
+          "data":
+          {
+            "value": "Solo podrá realizar una acción en el día y un único ataque en la fase de combate. Se quita con medicina."
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724684529,
+      "details":
+      [
+        {
+          "name": "tipo",
+          "data":
+          {
+            "value": "<align=\"center\">ESTADO</align>"
+          }
+        },
+        {
+          "name": "titulo",
+          "data":
+          {
+            "value": "<align=\"left\">Aturdido</align>"
+          }
+        },
+        {
+          "name": "descripcion",
+          "data":
+          {
+            "value": "Este personaje solo podrá usar sus dos acciones del día enquitar este estado. Mientras esté aturdido tampoco podrá realizar ataques."
+          }
+        }
+      ]
     }
   ]
 }

@@ -110,6 +110,129 @@
           }
         }
       ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724682480,
+      "details":
+      [
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Paz en el Bosque"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">La noche transcurre tranquila, las estrellas iluminan el cielo y una suave brisa trae esperanza.</align>"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+1 ACECHO"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724683898,
+      "details":
+      [
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "La Oscuridad"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">Desde la densidad del bosque se siente el crujir de ramas pisoteadas, los observan desde la espesura.</align>"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+2 ACECHO\n"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724683951,
+      "details":
+      [
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">El silencio es absoluto, tanto lo es que ni los tipicos sonidos del bosque se oyen, inquietos pasan la noche junto al fuego.</align>"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+1 ACECHO"
+          }
+        },
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Tranquilidad Perturbadora"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724684240,
+      "details":
+      [
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Aguacero"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "<align=\"center\">Una fuerte tormenta azota el campamento, el agua se filtra por todo el lugar. Si aún no construiste la TIENDA, uno de tus soldados se enferma (añade el estado \"enfermo\" a uno de tus soldados).<size=79%><b><u></align>"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724684247
     }
   ]
 }

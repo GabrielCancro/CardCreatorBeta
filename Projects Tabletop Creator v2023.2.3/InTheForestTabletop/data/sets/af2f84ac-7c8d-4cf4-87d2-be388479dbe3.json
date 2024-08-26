@@ -233,7 +233,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724684335,
+      "last_modification_date_unix": 1724685118,
       "details":
       [
         {
@@ -247,21 +247,21 @@
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"left\">ESTADO</align>"
+            "value": "<align=\"center\">ESTADO</align>"
           }
         },
         {
           "name": "descripcion",
           "data":
           {
-            "value": "Solo podrá realizar una acción en el día y un único ataque en la fase de combate. Se quita con medicina."
+            "value": "<align=\"left\">Solo podrá realizar una acción en el día y un único ataque en la fase de combate. Se quita con medicina.</align>"
           }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724684529,
+      "last_modification_date_unix": 1724685130,
       "details":
       [
         {
@@ -282,7 +282,7 @@
           "name": "descripcion",
           "data":
           {
-            "value": "Este personaje solo podrá usar sus dos acciones del día enquitar este estado. Mientras esté aturdido tampoco podrá realizar ataques."
+            "value": "<align=\"left\">Este personaje solo podrá usar sus dos acciones del día enquitar este estado. Mientras esté aturdido tampoco podrá realizar ataques.</align>"
           }
         }
       ]

@@ -4,5 +4,20 @@
   "export_pdf_new_file_per_item": "False",
   "export_localization": "current",
   "export_pdf_page_size": "210, 297",
-  "export_pdf_item_bleeding": "1"
+  "export_pdf_item_bleeding": "1",
+  "export_sides": "front",
+  "export_folder_per_layout": "False",
+  "export_folder_per_side": "False",
+  "export_images": "False",
+  "export_pdf_group_sets": "True",
+  "export_pdf_group_blueprints": "True",
+  "export_pdf_cut_lines_thickness": "0.2",
+  "export_pdf_cut_lines_separation": "1",
+  "export_pdf_cut_lines_length": "1",
+  "export_pdf_cut_lines_border": "True",
+  "export_pdf_cut_lines": "True",
+  "export_pdf_item_spacing": "0.2",
+  "export_pdf_page_margin": "10",
+  "export_pdf_global_scale": "1",
+  "export_tts": "False"
 }

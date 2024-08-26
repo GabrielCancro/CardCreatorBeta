@@ -1,13 +1,13 @@
 {
   "json_version": 3,
-  "name": "set_001",
+  "name": "Items",
   "blueprint_name": "BP_Item",
   "hint_order_index": 0,
   "zoom": 0,
   "items":
   [
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464157,
       "details":
       [
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1724464163,
       "details":
       [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464170,
       "details":
       [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464176,
       "details":
       [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464189,
       "details":
       [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464284,
       "details":
       [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464295,
       "details":
       [
@@ -232,8 +232,43 @@
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1724685118,
+      "amount": 2,
+      "last_modification_date_unix": 1724695517,
+      "details":
+      [
+        {
+          "name": "imagen",
+          "data":
+          {
+            "value": "Items/tools.png"
+          }
+        },
+        {
+          "name": "titulo",
+          "data":
+          {
+            "value": "<align=\"left\">Herramientas</align>"
+          }
+        },
+        {
+          "name": "tipo",
+          "data":
+          {
+            "value": "<align=\"center\">CONSUMIBLE</align>"
+          }
+        },
+        {
+          "name": "descripcion",
+          "data":
+          {
+            "value": "<align=\"left\">Añade tres (3) marcadores a este item. Puedes volver a tirar un dado en cualquier acción de recolectar recursos por cada marcador. Al agotarse se descarta.</align><align=\"justified\">"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1724694379,
       "details":
       [
         {
@@ -256,12 +291,22 @@
           {
             "value": "<align=\"left\">Solo podrá realizar una acción en el día y un único ataque en la fase de combate. Se quita con medicina.</align>"
           }
+        },
+        {
+          "name": "imagen",
+          "data":
+          {
+            "value": "enfermo.png",
+            "color": "#FFFFFFBD",
+            "img_offset": "0, 1",
+            "img_zoom": "0.8"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1724685130,
+      "amount": 2,
+      "last_modification_date_unix": 1724694387,
       "details":
       [
         {
@@ -283,6 +328,15 @@
           "data":
           {
             "value": "<align=\"left\">Este personaje solo podrá usar sus dos acciones del día enquitar este estado. Mientras esté aturdido tampoco podrá realizar ataques.</align>"
+          }
+        },
+        {
+          "name": "imagen",
+          "data":
+          {
+            "color": "#FFFFFFF3",
+            "value": "aturdido.png",
+            "img_zoom": "0.8"
           }
         }
       ]

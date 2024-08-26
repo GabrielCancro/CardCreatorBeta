@@ -1,6 +1,6 @@
 {
   "json_version": 3,
-  "name": "set_002",
+  "name": "Events",
   "blueprint_name": "BP_Event",
   "hint_order_index": 1,
   "zoom": 0.4749788,
@@ -197,7 +197,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724684240,
+      "last_modification_date_unix": 1724693737,
       "details":
       [
         {
@@ -227,12 +227,15 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "bg_special",
+          "data":
+          {
+            "visible": "False"
+          }
         }
       ]
-    },
-    {
-      "amount": 1,
-      "last_modification_date_unix": 1724684247
     }
   ]
 }

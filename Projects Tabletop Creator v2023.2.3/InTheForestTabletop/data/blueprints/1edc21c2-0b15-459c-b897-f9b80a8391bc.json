@@ -1,10 +1,10 @@
 {
   "json_version": 3,
-  "name": "BP_Item",
+  "name": "BP_Builds",
   "type": "card",
-  "layout_size_mm": "50, 30",
-  "main_panel_name": "titulo",
-  "hint_order_index": 0,
+  "layout_size_mm": "35, 35",
+  "main_panel_name": "tx_name",
+  "hint_order_index": 2,
   "front_layers":
   [
     {
@@ -12,62 +12,76 @@
       "panels":
       [
         {
-          "name": "titulo",
+          "name": "tx_name",
           "data":
           {
-            "layout_position": "25.80845, 25.78541",
-            "layout_size": "45.60152, 4.767014",
+            "layout_position": "17.81354, 30.66688",
+            "layout_size": "32.08989, 5.882982",
             "panel_type": "text",
-            "value": "<b><align=\"left\">Nombre</align></b>",
+            "value": "Edificio",
             "text_font": "Calibri",
+            "text_size": "5.5",
             "layout_constraint_v": "top",
             "layout_constraint_h": "scale",
-            "color": "#454545FF"
+            "color": "#454545FF",
+            "text_alignment_h": "left"
           }
         },
         {
-          "name": "tipo",
+          "name": "tx_desc",
           "data":
           {
-            "layout_position": "12.31154, 22.57605",
-            "layout_size": "18.83608, 4.534689",
+            "layout_position": "15.51012, 3.012369",
+            "layout_size": "28.06665, 3.212123",
             "panel_type": "text",
-            "value": "<align=\"center\">EQUIPABLE</align>",
-            "text_size": "2.5",
+            "value": "[4]->C   [1]->X",
+            "text_size": "4",
+            "layout_constraint_v": "bottom",
+            "layout_constraint_h": "scale",
+            "text_alignment_h": "left",
+            "text_font": "Calibri",
+            "color": "#444444FF"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "layout_position": "30.44825, 24.10868",
+            "layout_size": "5.984962, 9.375106",
+            "panel_type": "text",
+            "value": "5M\n2C",
+            "text_size": "3.5",
             "layout_constraint_v": "bottom",
             "layout_constraint_h": "scale",
             "text_alignment_h": "right",
             "text_font": "Calibri",
-            "color": "#565454FF",
-            "text_bold": "True"
-          }
-        },
-        {
-          "name": "descripcion",
-          "data":
-          {
-            "layout_position": "35.90832, 12.38947",
-            "layout_size": "24.75628, 22.89739",
-            "panel_type": "text",
-            "value": "<align=\"left\">Descripcion del item, detalles y forma de utilizarlo, ventajas y algun otro tipo de informacion interesante</align><align=\"justified\">",
-            "text_size": "2.7",
-            "layout_constraint_v": "bottom",
-            "layout_constraint_h": "scale",
-            "text_font": "Calibri",
             "color": "#444444FF",
-            "text_line_spacing": "-22"
+            "text_alignment_v": "top",
+            "text_line_spacing": "-27"
           }
         },
         {
-          "name": "imagen",
+          "name": "logo_001",
           "data":
           {
-            "layout_position": "12.37206, 11.90502",
-            "layout_size": "19.36341, 18.96076",
+            "layout_position": "30.26546, 4.281737",
+            "layout_size": "6.965065, 6.547932",
+            "panel_type": "icon",
+            "value": "Sky/sun",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "background_color": "#27272700"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "layout_position": "16.51547, 16.84222",
+            "layout_size": "28.8199, 23.84632",
             "panel_type": "image",
             "value": "04877da0-dfb7-4ec0-9dbb-54e1d1af00b9.png",
-            "procedural_radius": "5",
-            "color": "#FFFFFFFF",
             "layout_constraint_h": "scale",
             "layout_constraint_v": "scale"
           }
@@ -76,11 +90,10 @@
           "name": "color",
           "data":
           {
-            "layout_position": "25.19594, 15.04357",
-            "layout_size": "47.57552, 27.69011",
+            "layout_position": "17.46186, 17.49674",
+            "layout_size": "33.39679, 33.65489",
             "panel_type": "procedural",
             "value": "Placeholder",
-            "procedural_radius": "4",
             "color": "#FFFFFFFF",
             "layout_constraint_h": "scale",
             "layout_constraint_v": "scale",
@@ -91,15 +104,13 @@
           "name": "border",
           "data":
           {
-            "layout_position": "25.30727, 15.11938",
-            "layout_size": "49.76789, 29.3921",
+            "layout_position": "17.50871, 17.54228",
+            "layout_size": "35.01742, 35.08455",
             "panel_type": "procedural",
             "value": "Placeholder",
-            "procedural_radius": "5",
             "color": "#75CAE6FF",
             "layout_constraint_h": "scale",
-            "layout_constraint_v": "scale",
-            "panel_editable": "False"
+            "layout_constraint_v": "scale"
           }
         }
       ]
@@ -115,11 +126,11 @@
           "name": "back_logo",
           "data":
           {
-            "layout_position": "25, 15",
-            "layout_size": "50, 30",
+            "layout_position": "17.5, 17.5",
+            "layout_size": "35, 35",
             "panel_type": "image",
             "color": "#FFFFFFFF",
-            "value": "653796ed-2248-477b-902c-a218c368b791.png",
+            "value": "DefaultCardBack.png",
             "layout_constraint_v": "scale",
             "layout_constraint_h": "scale",
             "panel_editable": "False",

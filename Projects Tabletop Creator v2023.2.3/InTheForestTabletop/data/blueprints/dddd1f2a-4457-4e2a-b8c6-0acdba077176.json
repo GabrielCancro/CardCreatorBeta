@@ -140,32 +140,18 @@
       "panels":
       [
         {
-          "name": "back_logo",
-          "data":
-          {
-            "layout_position": "31.15, 45.24",
-            "layout_size": "42.1, 45.23",
-            "panel_type": "image",
-            "color": "#FFFFFFFF",
-            "value": "TC/IconWhite",
-            "layout_constraint_v": "scale",
-            "layout_constraint_h": "scale",
-            "panel_editable": "False"
-          }
-        },
-        {
           "name": "back_color",
           "data":
           {
-            "layout_position": "31.75, 44.45",
-            "layout_size": "63.5, 88.9",
-            "panel_type": "procedural",
-            "value": "Placeholder",
-            "color": "#76CAE7FF",
+            "layout_position": "20, 30",
+            "layout_size": "40, 60",
+            "panel_type": "image",
+            "value": "DefaultCardBack.png",
+            "color": "#FFFFFFFF",
             "panel_editable": "False",
-            "procedural_radius": "5",
             "layout_constraint_v": "scale",
-            "layout_constraint_h": "scale"
+            "layout_constraint_h": "scale",
+            "img_fit_mode": "fill"
           }
         }
       ]

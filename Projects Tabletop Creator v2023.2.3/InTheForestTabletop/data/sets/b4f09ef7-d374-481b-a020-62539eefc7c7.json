@@ -1,0 +1,316 @@
+{
+  "json_version": 3,
+  "name": "Builds",
+  "blueprint_name": "BP_Builds",
+  "hint_order_index": 2,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724698152,
+      "details":
+      [
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "<align=\"left\">Tienda</align>"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tienda.png"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "5M\n3C"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "-1C -> +1PD"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1724697577,
+      "details":
+      [
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "5M\n2P"
+          }
+        },
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Aserradero",
+            "text_alignment_h": "left"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "[5] -> (M)"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "aserra.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724697596,
+      "details":
+      [
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Cocina",
+            "text_alignment_h": "left"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "4M\n2C\n2P"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "cocina.png",
+            "img_mask_mode": "False",
+            "img_zoom": "0.9"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1724697741,
+      "details":
+      [
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "3M"
+          }
+        },
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Trampa Clavos",
+            "text_size": "5"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "-1PD (un uso)"
+          }
+        },
+        {
+          "name": "logo_001",
+          "data":
+          {
+            "value": "Ball/moon"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "trampa clavos.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1724697977,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "trampa peces.png"
+          }
+        },
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Trampa Peces",
+            "text_size": "5"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "3M\n1C"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "[4]->(C)  <b>[1]</b>->X"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724697963,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "mapas.png",
+            "img_zoom": "0.9",
+            "img_offset": "-1, 0"
+          }
+        },
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Mesa Expedición",
+            "text_size": "4.4"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "5M\n3C\n2P"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "+1 REROLL"
+          }
+        },
+        {
+          "name": "logo_001",
+          "data":
+          {
+            "value": "Dice/rolling-dices"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724698031,
+      "details":
+      [
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Balista"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "5M\n2C\n3P"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "-1PD al inicio"
+          }
+        },
+        {
+          "name": "logo_001",
+          "data":
+          {
+            "value": "Ball/moon"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "ballista.png",
+            "img_offset": "-1, 0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1724698084,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "cantera.png",
+            "img_zoom": "0.9",
+            "img_offset": "-0.5, 0"
+          }
+        },
+        {
+          "name": "tx_name",
+          "data":
+          {
+            "value": "Cantera"
+          }
+        },
+        {
+          "name": "tx_val",
+          "data":
+          {
+            "value": "5M\n3P"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "[5]->P"
+          }
+        }
+      ]
+    }
+  ]
+}

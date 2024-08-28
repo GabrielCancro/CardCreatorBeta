@@ -1,0 +1,179 @@
+{
+  "json_version": 3,
+  "name": "set_001",
+  "blueprint_name": "BP_Enemy",
+  "hint_order_index": 3,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 5,
+      "last_modification_date_unix": 1724870324,
+      "details":
+      [
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "Trasgo"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "Enemies/trasgo.png",
+            "img_offset": "0, 0.5"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "text_bottom_001",
+          "data":
+          {
+            "value": "4"
+          }
+        },
+        {
+          "name": "text_bottom_002",
+          "data":
+          {
+            "value": "2"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1724870400,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "Enemies/lobo.png"
+          }
+        },
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "Lobo"
+          }
+        },
+        {
+          "name": "text_bottom_002",
+          "data":
+          {
+            "value": "1"
+          }
+        },
+        {
+          "name": "text_bottom_001",
+          "data":
+          {
+            "value": "5"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "value": "1"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1724870436,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "Enemies/spider.png"
+          }
+        },
+        {
+          "name": "text_bottom_001",
+          "data":
+          {
+            "value": "4"
+          }
+        },
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "Aracnido"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "value": "2"
+          }
+        },
+        {
+          "name": "text_bottom_002",
+          "data":
+          {
+            "value": "2"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1724870391,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "Enemies/huargo.png"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "value": "2"
+          }
+        },
+        {
+          "name": "text_bottom_002",
+          "data":
+          {
+            "value": "3"
+          }
+        },
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "Huargo"
+          }
+        },
+        {
+          "name": "text_bottom_001",
+          "data":
+          {
+            "value": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

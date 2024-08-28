@@ -7,7 +7,7 @@
   "items":
   [
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464481,
       "details":
       [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724464610,
       "details":
       [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724465114,
       "details":
       [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724682480,
       "details":
       [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724683898,
       "details":
       [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724683951,
       "details":
       [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1724693737,
       "details":
       [

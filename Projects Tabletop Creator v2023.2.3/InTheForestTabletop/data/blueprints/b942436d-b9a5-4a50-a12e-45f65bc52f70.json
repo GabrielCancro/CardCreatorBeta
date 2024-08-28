@@ -18,11 +18,12 @@
             "layout_position": "25.80845, 25.78541",
             "layout_size": "45.60152, 4.767014",
             "panel_type": "text",
-            "value": "<b><align=\"left\">Nombre</align></b>",
+            "value": "Nombre",
             "text_font": "Calibri",
             "layout_constraint_v": "top",
             "layout_constraint_h": "scale",
-            "color": "#454545FF"
+            "color": "#454545FF",
+            "text_alignment_h": "left"
           }
         },
         {
@@ -32,11 +33,10 @@
             "layout_position": "12.31154, 22.57605",
             "layout_size": "18.83608, 4.534689",
             "panel_type": "text",
-            "value": "<align=\"center\">EQUIPABLE</align>",
+            "value": "EQUIPABLE",
             "text_size": "2.5",
             "layout_constraint_v": "bottom",
             "layout_constraint_h": "scale",
-            "text_alignment_h": "right",
             "text_font": "Calibri",
             "color": "#565454FF",
             "text_bold": "True"
@@ -49,13 +49,14 @@
             "layout_position": "35.90832, 12.38947",
             "layout_size": "24.75628, 22.89739",
             "panel_type": "text",
-            "value": "<align=\"left\">Descripcion del item, detalles y forma de utilizarlo, ventajas y algun otro tipo de informacion interesante</align><align=\"justified\">",
+            "value": "Descripcion del item, detalles y forma de utilizarlo, ventajas y algun otro tipo de informacion interesante",
             "text_size": "2.7",
             "layout_constraint_v": "bottom",
             "layout_constraint_h": "scale",
             "text_font": "Calibri",
             "color": "#444444FF",
-            "text_line_spacing": "-22"
+            "text_line_spacing": "-22",
+            "text_alignment_h": "left"
           }
         },
         {

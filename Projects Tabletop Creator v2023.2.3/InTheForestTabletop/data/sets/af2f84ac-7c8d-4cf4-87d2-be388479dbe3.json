@@ -8,28 +8,29 @@
   [
     {
       "amount": 2,
-      "last_modification_date_unix": 1724464157,
+      "last_modification_date_unix": 1724870678,
       "details":
       [
         {
           "name": "titulo",
           "data":
           {
-            "value": "<align=\"left\">Ración de viaje</align>"
+            "value": "<align=\"left\">Ración de viaje     ***</align>"
           }
         },
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"left\">Coloca 3 fichas de alimento del pozo en este item, puedes alimentar a tus soldados con ellas. \nAl agotarse, retira esta carta del juego.</align><align=\"justified\">"
+            "value": "<align=\"left\">Puedes usarlo para evitar gastar recursos de comida de tu reserva al alimentar a tus soldados. </align><align=\"justified\">"
           }
         },
         {
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">CONSUMIBLE</align>"
+            "value": "TRES USOS",
+            "text_alignment_h": "center"
           }
         },
         {
@@ -43,7 +44,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1724464163,
+      "last_modification_date_unix": 1724870686,
       "details":
       [
         {
@@ -64,7 +65,7 @@
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">CONSUMIBLE</align>"
+            "value": "UN USO"
           }
         },
         {
@@ -78,7 +79,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724464170,
+      "last_modification_date_unix": 1724870870,
       "details":
       [
         {
@@ -92,7 +93,7 @@
           "name": "titulo",
           "data":
           {
-            "value": "<b><align=\"left\">Espada Elfica</align></b>"
+            "value": "Espada Elfica"
           }
         },
         {
@@ -106,7 +107,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724464176,
+      "last_modification_date_unix": 1724870863,
       "details":
       [
         {
@@ -120,7 +121,7 @@
           "name": "titulo",
           "data":
           {
-            "value": "<b><align=\"left\">Armadura</align></b>"
+            "value": "Armadura"
           }
         },
         {
@@ -162,7 +163,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724464284,
+      "last_modification_date_unix": 1724870857,
       "details":
       [
         {
@@ -176,14 +177,14 @@
           "name": "titulo",
           "data":
           {
-            "value": "<b><align=\"left\">Pirotecnia</align></b>"
+            "value": "Pirotecnia"
           }
         },
         {
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">CONSUMIBLE</align>"
+            "value": "<align=\"center\">UN USO</align>"
           }
         },
         {
@@ -197,29 +198,30 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724464295,
+      "last_modification_date_unix": 1724870807,
       "details":
       [
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"left\">Usa esta mochila durante una expedición para realizar dos tiradas en la tabla en lugar de una.</align><align=\"justified\">"
+            "value": "<align=\"left\">Usa esta mochila durante una expedición para volver a tirar ambos dados si no estas conforme con el resultado.</align><align=\"justified\">"
           }
         },
         {
           "name": "titulo",
           "data":
           {
-            "value": "Mochila de Exploracion",
-            "text_size": "4.6"
+            "value": "Mochila de Acampe  **",
+            "text_size": "4.6",
+            "text_alignment_h": "left"
           }
         },
         {
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">CONSUMIBLE</align>"
+            "value": "<align=\"center\">DOS USOS</align>"
           }
         },
         {
@@ -233,7 +235,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724695517,
+      "last_modification_date_unix": 1724870954,
       "details":
       [
         {
@@ -247,35 +249,36 @@
           "name": "titulo",
           "data":
           {
-            "value": "<align=\"left\">Herramientas</align>"
+            "value": "Herramientas        ***"
           }
         },
         {
           "name": "tipo",
           "data":
           {
-            "value": "<align=\"center\">CONSUMIBLE</align>"
+            "value": "TRES USOS"
           }
         },
         {
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"left\">Añade tres (3) marcadores a este item. Puedes volver a tirar un dado en cualquier acción de recolectar recursos por cada marcador. Al agotarse se descarta.</align><align=\"justified\">"
+            "value": "Puedes usar estas herramientas para volver a realizar una tirada de recolectar recursos si no estas conforme con el resultado"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724694379,
+      "last_modification_date_unix": 1724870878,
       "details":
       [
         {
           "name": "titulo",
           "data":
           {
-            "value": "<b><align=\"left\">Enfermo</align></b>"
+            "value": "Enfermo",
+            "text_bold": "True"
           }
         },
         {
@@ -306,7 +309,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1724694387,
+      "last_modification_date_unix": 1724870885,
       "details":
       [
         {
@@ -320,7 +323,8 @@
           "name": "titulo",
           "data":
           {
-            "value": "<align=\"left\">Aturdido</align>"
+            "value": "Aturdido",
+            "text_bold": "True"
           }
         },
         {

@@ -236,6 +236,48 @@
           }
         }
       ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1724935761,
+      "details":
+      [
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Noche en Vigilia"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "\nTras escuchar extraños sonidos pasan la noche en vigilia, parece que se preparan para atacar.\n\nVoltea dos criaturas del acecho y colocalas en el frente de combate!"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "bg_special",
+          "data":
+          {
+            "visible": "False"
+          }
+        }
+      ]
     }
   ]
 }

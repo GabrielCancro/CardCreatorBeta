@@ -37,7 +37,6 @@
             "text_size": "3.5",
             "layout_constraint_v": "bottom",
             "layout_constraint_h": "scale",
-            "text_alignment_h": "right",
             "text_font": "Calibri",
             "color": "#444444FF",
             "text_line_spacing": "-20"
@@ -146,7 +145,7 @@
             "layout_position": "20, 30",
             "layout_size": "40, 60",
             "panel_type": "image",
-            "value": "DefaultCardBack.png",
+            "value": "bg_forest.png",
             "color": "#FFFFFFFF",
             "panel_editable": "False",
             "layout_constraint_v": "scale",

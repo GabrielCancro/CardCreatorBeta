@@ -5,7 +5,7 @@
   "export_localization": "current",
   "export_pdf_page_size": "210, 297",
   "export_pdf_item_bleeding": "1",
-  "export_sides": "front",
+  "export_sides": "both",
   "export_folder_per_layout": "False",
   "export_folder_per_side": "False",
   "export_images": "False",
@@ -19,5 +19,6 @@
   "export_pdf_item_spacing": "0.2",
   "export_pdf_page_margin": "10",
   "export_pdf_global_scale": "1",
-  "export_tts": "False"
+  "export_tts": "False",
+  "export_use_item_amount": "True"
 }

@@ -120,7 +120,7 @@
             "layout_size": "50, 30",
             "panel_type": "image",
             "color": "#FFFFFFFF",
-            "value": "653796ed-2248-477b-902c-a218c368b791.png",
+            "value": "bg_items.png",
             "layout_constraint_v": "scale",
             "layout_constraint_h": "scale",
             "panel_editable": "False",

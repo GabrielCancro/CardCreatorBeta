@@ -130,11 +130,13 @@
             "layout_size": "35, 35",
             "panel_type": "image",
             "color": "#FFFFFFFF",
-            "value": "DefaultCardBack.png",
+            "value": "bg_camp.png",
             "layout_constraint_v": "scale",
             "layout_constraint_h": "scale",
             "panel_editable": "False",
-            "img_fit_mode": "fill"
+            "img_fit_mode": "fill",
+            "img_zoom": "1.5",
+            "img_offset": "-1, 8"
           }
         }
       ]

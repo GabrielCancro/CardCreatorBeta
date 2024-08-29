@@ -175,29 +175,15 @@
           "name": "back_logo",
           "data":
           {
-            "layout_position": "31.15, 45.24",
-            "layout_size": "42.1, 45.23",
+            "layout_position": "15, 15",
+            "layout_size": "30, 30",
             "panel_type": "image",
             "color": "#FFFFFFFF",
-            "value": "TC/IconWhite",
+            "value": "bg_mopnsters2.png",
             "layout_constraint_v": "scale",
             "layout_constraint_h": "scale",
-            "panel_editable": "False"
-          }
-        },
-        {
-          "name": "back_color",
-          "data":
-          {
-            "layout_position": "31.75, 44.45",
-            "layout_size": "63.5, 88.9",
-            "panel_type": "procedural",
-            "value": "Placeholder",
-            "color": "#76CAE7FF",
             "panel_editable": "False",
-            "procedural_radius": "5",
-            "layout_constraint_v": "scale",
-            "layout_constraint_h": "scale"
+            "img_fit_mode": "fill"
           }
         }
       ]

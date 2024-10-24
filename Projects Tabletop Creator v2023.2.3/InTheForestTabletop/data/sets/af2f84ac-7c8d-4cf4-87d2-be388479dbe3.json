@@ -44,7 +44,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1724870686,
+      "last_modification_date_unix": 1729774718,
       "details":
       [
         {
@@ -58,7 +58,7 @@
           "name": "descripcion",
           "data":
           {
-            "value": "<align=\"left\">Utiliza esta hierba medicinal para recuperar 2PD a un soldado, tambien quita el estado de debilidad o enfermedad.</align><align=\"justified\">"
+            "value": "<align=\"left\">Utiliza esta hierba medicinal para recuperar 2PD a un soldado, además quita una ficha de debilidad si tuviese.</align><align=\"justified\">"
           }
         },
         {

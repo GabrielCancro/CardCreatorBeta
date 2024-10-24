@@ -79,7 +79,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1724697596,
+      "last_modification_date_unix": 1729773939,
       "details":
       [
         {
@@ -104,6 +104,13 @@
             "value": "cocina.png",
             "img_mask_mode": "False",
             "img_zoom": "0.9"
+          }
+        },
+        {
+          "name": "tx_desc",
+          "data":
+          {
+            "value": "[5]->C"
           }
         }
       ]

@@ -1,0 +1,14 @@
+{
+  "json_version": 3,
+  "name": "Tokens",
+  "blueprint_name": "BP_Tokens",
+  "hint_order_index": 4,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1729777343
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "json_version": 3,
+  "name": "BP_Tokens",
+  "type": "token",
+  "layout_size_mm": "12, 12",
+  "main_panel_name": "logo",
+  "hint_order_index": 4,
+  "front_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "layout_position": "6, 6",
+            "layout_size": "10, 10",
+            "panel_type": "image",
+            "value": "TC/Icon",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale"
+          }
+        },
+        {
+          "name": "color",
+          "data":
+          {
+            "layout_position": "6, 6",
+            "layout_size": "11.8, 11.8",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "1",
+            "color": "#FFFFFFFF",
+            "panel_editable": "False",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale"
+          }
+        },
+        {
+          "name": "border",
+          "data":
+          {
+            "layout_position": "6, 6",
+            "layout_size": "12, 12",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "1",
+            "color": "#76CBE7FF",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale",
+            "panel_editable": "False"
+          }
+        }
+      ]
+    }
+  ],
+  "back_layers":
+  [
+    {
+      "name": "fixed_back",
+      "panels":
+      [
+        {
+          "name": "back_logo",
+          "data":
+          {
+            "layout_position": "6, 6",
+            "layout_size": "11, 11",
+            "panel_type": "image",
+            "value": "TC/IconWhite",
+            "panel_editable": "False",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale"
+          }
+        },
+        {
+          "name": "back_color",
+          "data":
+          {
+            "layout_position": "9.525, 9.525",
+            "layout_size": "19.05, 19.05",
+            "value": "Placeholder",
+            "procedural_radius": "5",
+            "color": "#76CAE7FF",
+            "panel_editable": "False",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale"
+          }
+        }
+      ]
+    }
+  ]
+}

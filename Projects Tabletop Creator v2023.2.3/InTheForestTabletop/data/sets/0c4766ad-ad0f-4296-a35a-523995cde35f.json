@@ -7,8 +7,103 @@
   "items":
   [
     {
-      "amount": 1,
-      "last_modification_date_unix": 1729777343
+      "amount": 8,
+      "last_modification_date_unix": 1729781711,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/food.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 8,
+      "last_modification_date_unix": 1729781760,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/wood.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 8,
+      "last_modification_date_unix": 1729781771,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/stone.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "last_modification_date_unix": 1729781778,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/blood.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 5,
+      "last_modification_date_unix": 1729782633,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/skull2.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 6,
+      "last_modification_date_unix": 1729781832,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/wall.png",
+            "img_mask_radius": "0.8"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 5,
+      "last_modification_date_unix": 1729781844,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "tokens/weaknes.png"
+          }
+        }
+      ]
     }
   ]
 }

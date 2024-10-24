@@ -20,5 +20,6 @@
   "export_pdf_page_margin": "10",
   "export_pdf_global_scale": "1",
   "export_tts": "False",
-  "export_use_item_amount": "True"
+  "export_use_item_amount": "True",
+  "export_scale_override": "1"
 }

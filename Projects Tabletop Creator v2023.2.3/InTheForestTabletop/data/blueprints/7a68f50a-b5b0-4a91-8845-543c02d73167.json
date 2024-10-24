@@ -16,7 +16,7 @@
           "data":
           {
             "layout_position": "6, 6",
-            "layout_size": "10, 10",
+            "layout_size": "11.5, 11.5",
             "panel_type": "image",
             "value": "TC/Icon",
             "layout_constraint_v": "scale",

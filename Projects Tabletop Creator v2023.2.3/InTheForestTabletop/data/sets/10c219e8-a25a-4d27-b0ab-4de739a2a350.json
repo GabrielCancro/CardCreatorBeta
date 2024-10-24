@@ -1,6 +1,6 @@
 {
   "json_version": 3,
-  "name": "set_001",
+  "name": "Enemies",
   "blueprint_name": "BP_Enemy",
   "hint_order_index": 3,
   "zoom": 0,

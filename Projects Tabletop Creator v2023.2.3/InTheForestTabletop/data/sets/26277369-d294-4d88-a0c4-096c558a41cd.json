@@ -278,6 +278,105 @@
           }
         }
       ]
+    },
+    {
+      "amount": 5,
+      "last_modification_date_unix": 1740965984,
+      "details":
+      [
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "Monstruos al Acecho"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "Añade tandos monstruos al acecho como fichas de oscuridad haya en la zona de acecho."
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+X ACECHO"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1740967215,
+      "details":
+      [
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "\nAñade una ficha de oscuridad a la zona de acecho.\n\n<size=70%><i>Si la criatura especial ya fue \nrevelada, en lugar de añadir \nfichas de oscuridad retira \n2 puntos de daño de \ndicha criatura.</i></size>"
+          }
+        },
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "OSCURIDAD CRECIENTE"
+          }
+        },
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "+1 OSCURIDAD"
+          }
+        },
+        {
+          "name": "icon",
+          "data":
+          {
+            "value": "Skull/triple-skulls"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1740967169,
+      "details":
+      [
+        {
+          "name": "tx_special",
+          "data":
+          {
+            "value": "CRIATURA ESPECIAL",
+            "text_size": "3.2"
+          }
+        },
+        {
+          "name": "icon",
+          "data":
+          {
+            "value": "Creature/brute"
+          }
+        },
+        {
+          "name": "tx_description",
+          "data":
+          {
+            "value": "Voltea la carta de criatura especial.\nRetira esta carta y vuelve a barajar el   mazo de eventos.\n\n<i><size=70%>Debes vencer a la criatura   especial antes que se termine          el nuevo mazo de eventos.</size></i>"
+          }
+        },
+        {
+          "name": "tx_title",
+          "data":
+          {
+            "value": "REVELACION"
+          }
+        }
+      ]
     }
   ]
 }
